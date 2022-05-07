@@ -13,7 +13,7 @@ April, 2022 - Create a GitHub repository for my goals and codes. Maybe make some
 May, 2022 - Spend three hours every week on edX "Calculus 1A: Differentiation"
 https://www.edx.org/course/calculus-1a-differentiation
 
-1st Week of May - Not going well. I had so much free time, but I spent almost all of them procrastinating, such as watching YouTube on best XLR / USB mics. At least ten hours a day were spent procrastinating. 
+1st Week of May - Spent only around five minutes on the course. (five minutes out of three hours = 2.7%) I had so much free time, but I spent almost all of them procrastinating, such as watching YouTube on best XLR / USB mics. At least ten hours a day were spent procrastinating. 
 
 
 # Past Goals
