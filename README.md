@@ -15,6 +15,8 @@ https://www.edx.org/course/calculus-1a-differentiation
 
 1st Week of May - Spent only around five minutes on the course. (five minutes out of three hours = 2.7%) I had so much free time, but I spent almost all of them procrastinating, such as watching YouTube on best XLR / USB mics. At least ten hours a day were spent procrastinating. 
 
+2nd & 3rd Week of May - Spent no time at all on the course. It was partly because I had finals, but it was mostly because I spent too much time watching YouTubes. 99% my fault. Hopefully, next week will be better.
+
 
 # Past Goals
 
