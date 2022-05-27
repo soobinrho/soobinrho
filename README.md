@@ -4,7 +4,7 @@ I made too many mistakes of making unrealistic, unspecific goals. In my college 
 
 # Goals I am working on currently
 
-Life Goals - Master the method of loci with the help of Joshua Foer book *Moonwalking with Einstein*; be able to remember whatever I want to remember, such as memories with my best friends or course materials. 
+Life Goals - Master the method of loci with the help of Joshua Foer's book *Moonwalking with Einstein*; be able to remember whatever I want to remember, such as memories with my best friends or course materials. 
 
 2022 Yearly Goals - Work on my mind palace twenty minutes every day. Alternatively, use these twenty minutes either to work on my mind palace or to plan how I am going to spend my day that day -- e.g. no procrastination / no phone (unless necessary) until 5pm, catch up on readings 5pm - 7pm.
 
