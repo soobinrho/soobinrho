@@ -20,9 +20,9 @@ https://www.edx.org/course/calculus-1a-differentiation
 
 # Past Goals
 
-2017 - Get full marks on my IB Diploma. (Failed miserably)
+2017 - Get full marks on my IB Diploma - Failed miserably.
 
-2018 - Be able to do 72 push-ups so that I can join special forces. (Failed. I could do only 20)
+2018 - Be able to do 72 push-ups so that I can join special forces - Failed. I could do only 20. 
 
 
 
