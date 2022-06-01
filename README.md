@@ -17,6 +17,8 @@ https://www.edx.org/course/calculus-1a-differentiation
 
 2nd & 3rd Week of May - Spent no time at all on the course. It was partly because I had finals, but it was mostly because I spent too much time watching YouTubes. 99% my fault. Hopefully, next week will be better.
 
+4th Week of May - Spent all my time watching Game of Thrones.
+
 
 # Past Goals
 
