@@ -27,7 +27,7 @@ catch up on readings 5pm - 7pm.
 Maybe make some tables so that goals are easy to read.
 
 **May, 2022** Spend three hours every week on edX 
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation).
 
 **1st Week of May** Spent only around five minutes on the course. 
 (five minutes out of three hours = 2.7%) I had so much free time, but 
