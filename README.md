@@ -17,7 +17,7 @@ Master the method of loci with the help of Joshua Foer's book *Moonwalking with 
 
 ## Goals I am working on currently
 
-2022 Yearly Goals - Work on my mind palace twenty minutes every day.
+**2022 Yearly Goal** Work on my mind palace twenty minutes every day.
 Alternatively, use these twenty minutes either to work on my mind palace 
 or to plan how I am going to spend my day that day 
 -- e.g. no procrastination / no phone (unless necessary) until 5pm, 
