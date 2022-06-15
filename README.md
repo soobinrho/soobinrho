@@ -4,7 +4,7 @@ I made too many mistakes of making unrealistic, unspecific goals.
 In my college sophomore year, a shower thought struck my mind: 
 I gotta make realistic, specific goals and put these onto my GitHub. 
 This page keeps track of all my life goals; plus, I use this page 
-also to show every code I wrote with pictures and short descriptions.
+also to show what kind of projects I'm working on with pictures and short descriptions.
 
 ## Projects
 
