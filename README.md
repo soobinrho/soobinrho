@@ -56,13 +56,13 @@ I spent too much time watching YouTubes. 99% my fault. Hopefully, next week will
 **4th Week of May** Spent all my time watching Game of Thrones.
 
 **June, 2022** The goal this month is not 
-to do something perfectly, but rather,
-to not do what I do not want to do.
+about doing something, but rather, it's about
+not doing what I do not want to do.
 For instane, I feel like my phone is doing 
 me -- not the other way around.
 
-My It sounds easy, but I know how hard it 
-actually is to not do what I have been
+It sounds easy, but I know how hard it 
+actually is to stop doing what I have been
 doing all my life. I think I've heard someone 
 saying that habits become habits after 
 two months. I should aim to 
@@ -71,7 +71,7 @@ two months -- nothing more, nothing less:
 aimlessly websurfing for instance.
 
 Aiming to do something more than that will 
-have to come at least two months later.
+have to come at least two months after.
 
 ## Past Goals
 
