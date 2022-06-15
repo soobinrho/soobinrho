@@ -1,10 +1,16 @@
 # Overview
 
-I made too many mistakes of making unrealistic, unspecific goals. 
-In my college sophomore year, a shower thought struck my mind: 
-I gotta make realistic, specific goals and put these onto my GitHub. 
-This page keeps track of all my life goals; plus, I use this page 
-also to show what kind of projects I'm working on with pictures and short descriptions.
+I made too many mistakes of making 
+unrealistic, unspecific goals. 
+In my college sophomore year, a shower 
+thought struck my mind: 
+I gotta make realistic, specific goals 
+and put these on my GitHub. 
+This page keeps track of all my life 
+goals; plus, I use this page 
+also to show what kind of projects 
+I'm working on with as many pictures and
+and as few words as possible.
 
 ## Projects
 
