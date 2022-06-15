@@ -20,11 +20,11 @@ PowerShell preinstalled. This repository was
 made for those who need to create graphs but
 their workstations have restricted internet
 access. View the codes on this repository
-on your phone - you could just print the codes -
+on your phone - or you could just print the codes -
 and then type them into PowerShell ISE, which is a
 program that preships with most Windows computers.
 These codes will generate graphs that can
-then be exported to .png or .jpg files.
+be exported to .png or .jpg files.
 
 ## Life Goals
 
