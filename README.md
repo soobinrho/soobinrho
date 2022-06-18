@@ -83,7 +83,9 @@ have to come at least two months after.
 
 **2017** Get full marks on my high-school IB Diploma - Failed miserably.
 
-**2018** Be able to do 72 push-ups so that I can join special forces - Failed. 
+**2018** Be able to do 72 push-ups so that I can
+join special forces for my mandatory
+military service -- Failed. 
 I could do only 20. 
 
 
