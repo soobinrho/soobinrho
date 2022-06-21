@@ -44,7 +44,7 @@ as well as `GitHub` style inline codes like `this inline code block`.
 I personally use this for my math assignments, but since its
 code blocks look exactly the same as `Jupyter Lab`'s code cells,
 it can be used for computer science assignments as well,
-if you happend to be the kind of person who likes to use $\LaTeX$.
+if you happen to be the kind of person who likes to use $\LaTeX$.
 
 ## Life Goals
 
