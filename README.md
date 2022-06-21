@@ -40,7 +40,10 @@ This is a $\LaTeX$ template based on the
 `North American GeoGebra Journal Template` and
 `Jupyter Lab`'s code cells preambles.
 You can insert `Jupyter Lab` style code blocks,
-as well as GitHub style inline codes like `this`.
+as well as `GitHub` style inline codes like `this inline code block`.
+I personally use this for my math assignments, but since its
+code blocks look exactly the same as `Jupyter Lab`'s code cells,
+it can be used for computer science assignments as well.
 
 ## Life Goals
 
