@@ -36,7 +36,7 @@ be exported to .png or .jpg files.
 
 This is a $\LaTeX$ template based on the 
 `North American GeoGebra Journal Template` and
-`Jupyter Lab`'s code cells preambles.
+`Jupyter Lab`'s code-cells preambles.
 You can insert `Jupyter Lab` style code blocks,
 as well as `GitHub` style inline codes like `this inline code block`.
 I personally use this for my math assignments, but since its
@@ -102,20 +102,3 @@ have to come at least two months after.
 join special forces for my mandatory
 military service - Failed. 
 I could do only 20. 
-
-
-
-
-
-
-
-<!---
-soobinrho/soobinrho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 👋 Hi, I’m @soobinrho
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
