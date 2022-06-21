@@ -39,7 +39,8 @@ be exported to .png or .jpg files.
 This is a $\LaTeX$ template based on the 
 `North American GeoGebra Journal Template` and
 `Jupyter Lab`'s code cells preambles.
-
+You can insert `Jupyter Lab` style code blocks,
+as well as GitHub style inline codes like `this`.
 
 ## Life Goals
 
