@@ -32,6 +32,15 @@ program that preships with most Windows computers.
 These codes will generate graphs that can
 be exported to .png or .jpg files.
 
+[LaTeX Template for College Assignments](https://github.com/soobinrho/latex-college-assignments-template)
+
+![main](https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png)
+
+This is a $\LaTeX$ template based on the 
+`North American GeoGebra Journal Template` and
+`Jupyter Lab`'s code cells preambles.
+
+
 ## Life Goals
 
 Master the method of loci with the help of Joshua Foer's book *Moonwalking with Einstein*; be able to remember whatever I want to remember, such as memories with my best friends or course materials. 
