@@ -34,8 +34,6 @@ be exported to .png or .jpg files.
 
 #### LaTeX Template for College Assignments [[GitHub](https://github.com/soobinrho/latex-college-assignments-template)]
 
-![main](https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png)
-
 This is a $\LaTeX$ template based on the 
 `North American GeoGebra Journal Template` and
 `Jupyter Lab`'s code cells preambles.
@@ -46,6 +44,8 @@ code blocks look exactly the same as `Jupyter Lab`'s code cells,
 it can be used for computer science assignments as well,
 if you happen to be the kind of person who likes 
 to write everyting in $\LaTeX$.
+
+![main](https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png)
 
 ## Life Goals
 
