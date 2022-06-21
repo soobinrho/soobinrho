@@ -14,7 +14,7 @@ and as few words as possible.
 
 ## Projects
 
-[PowerShell Graphs Without Internet Access](https://github.com/soobinrho/powershell-graphs-without-internet-access)
+#### PowerShell Graphs Without Internet Access [[GitHub](https://github.com/soobinrho/powershell-graphs-without-internet-access)]
 
 If you happen to be in an environment where
 internet access is prohibited for security
@@ -32,7 +32,7 @@ program that preships with most Windows computers.
 These codes will generate graphs that can
 be exported to .png or .jpg files.
 
-[LaTeX Template for College Assignments](https://github.com/soobinrho/latex-college-assignments-template)
+#### LaTeX Template for College Assignments [[GitHub](https://github.com/soobinrho/latex-college-assignments-template)]
 
 ![main](https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png)
 
