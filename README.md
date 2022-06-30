@@ -33,7 +33,9 @@ to write everyting in $\LaTeX$.
 **College Coursework Programming [[GitHub](https://github.com/soobinrho/college-programming)]**
 
 This repository is a collection of all codes I wrote for my college courses, 
-such as Computer Science I, Computer Science II, and Calculus II.
+such as *Computer Science I*, *Computer Science II*, and *Calculus II*.
+Most of the graph generation was done by Python. Most of the documents were
+written with $\LaTeX$.
 
 ![AFP2_SoobinRho](https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png)
 
