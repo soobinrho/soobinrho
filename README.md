@@ -34,7 +34,7 @@ to write everyting in $\LaTeX$.
 
 This repository is a collection of all codes I wrote for my college courses, 
 such as *Computer Science I*, *Computer Science II*, and *Calculus II*.
-Most of the graph generation was done by Python. Most of the documents were
+Most of the graph generation was done by `Python`. Most of the documents were
 written with $\LaTeX$.
 
 ![AFP2_SoobinRho](https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png)
@@ -47,12 +47,12 @@ protocol or for any other reason - e.g. military
 in some countries - then this repository is for you.
 
 Every Windows computer is likely to have
-PowerShell preinstalled. This repository was
+`PowerShell` preinstalled. This repository was
 made for those who need to create graphs but
 their workstations have restricted internet
 access. View the codes on this repository
 on your phone - or you could just print the codes -
-and then type them into PowerShell ISE, which is a
+and then type them into `PowerShell ISE`, which is a
 program that preships with most Windows computers.
 These codes will generate graphs that can
 be exported to .png or .jpg files.
