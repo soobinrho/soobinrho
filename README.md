@@ -14,6 +14,28 @@ and as few words as possible.
 
 ## Projects
 
+#### College Programming [[GitHub](https://github.com/soobinrho/college-programming)]
+
+Description
+
+![AFP2_SoobinRho](https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png)
+
+#### LaTeX Template for College Assignments [[GitHub](https://github.com/soobinrho/latex-college-assignments-template)]
+
+This is a $\LaTeX$ template based on the 
+`North American GeoGebra Journal Template` and
+`Jupyter Lab`'s code-cells preambles.
+You can insert `Jupyter Lab` style code blocks,
+as well as `GitHub` style inline codes like `this inline code block`.
+
+Personally, I use this for my math assignments, but since its
+code blocks look exactly the same as `Jupyter Lab`'s code cells,
+it can be used for computer science assignments as well,
+if you happen to be the kind of person who likes 
+to write everyting in $\LaTeX$.
+
+![main](https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png)
+
 #### PowerShell Graphs Without Internet Access [[GitHub](https://github.com/soobinrho/powershell-graphs-without-internet-access)]
 
 If you happen to be in an environment where
@@ -31,22 +53,6 @@ and then type them into PowerShell ISE, which is a
 program that preships with most Windows computers.
 These codes will generate graphs that can
 be exported to .png or .jpg files.
-
-#### LaTeX Template for College Assignments [[GitHub](https://github.com/soobinrho/latex-college-assignments-template)]
-
-This is a $\LaTeX$ template based on the 
-`North American GeoGebra Journal Template` and
-`Jupyter Lab`'s code-cells preambles.
-You can insert `Jupyter Lab` style code blocks,
-as well as `GitHub` style inline codes like `this inline code block`.
-
-Personally, I use this for my math assignments, but since its
-code blocks look exactly the same as `Jupyter Lab`'s code cells,
-it can be used for computer science assignments as well,
-if you happen to be the kind of person who likes 
-to write everyting in $\LaTeX$.
-
-![main](https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png)
 
 ## Life Goals
 
