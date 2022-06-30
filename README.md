@@ -14,14 +14,7 @@ and as few words as possible.
 
 ## Projects
 
-#### College Programming [[GitHub](https://github.com/soobinrho/college-programming)]
-
-Description
-
-![AFP2_SoobinRho](https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png)
-
 #### LaTeX Template for College Assignments [[GitHub](https://github.com/soobinrho/latex-college-assignments-template)]
-
 This is a $\LaTeX$ template based on the 
 `North American GeoGebra Journal Template` and
 `Jupyter Lab`'s code-cells preambles.
@@ -36,8 +29,17 @@ to write everyting in $\LaTeX$.
 
 ![main](https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png)
 
-#### PowerShell Graphs Without Internet Access [[GitHub](https://github.com/soobinrho/powershell-graphs-without-internet-access)]
+---
 
+#### College Coursework Programming [[GitHub](https://github.com/soobinrho/college-programming)]
+This repository is a collection of all codes I wrote for my college courses, 
+such as Computer Science I, Computer Science II, and Calculus II.
+
+![AFP2_SoobinRho](https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png)
+
+---
+
+#### PowerShell Graphs Without Internet Access [[GitHub](https://github.com/soobinrho/powershell-graphs-without-internet-access)]
 If you happen to be in an environment where
 internet access is prohibited for security
 protocol or for any other reason - e.g. military
