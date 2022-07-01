@@ -112,3 +112,8 @@ have to come at least two months after.
 join special forces for my mandatory
 military service - Failed. 
 I could do only 20. 
+
+<!-- To Do
+- Organize the goal section.
+
+-->
