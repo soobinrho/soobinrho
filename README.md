@@ -28,7 +28,7 @@ it can be used for computer science assignments as well,
 if you happen to be the kind of person who likes 
 to write everyting in $\LaTeX$.
 
-<img src="https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png" width="300px">
+<img src="https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png" width="500px">
 
 **College Coursework Programming [[GitHub](https://github.com/soobinrho/college-programming)]**
 
@@ -37,7 +37,7 @@ such as *Computer Science I*, *Computer Science II*, and *Calculus II*.
 Most of the graph generation was done by `Python`. Most of the documents were
 written with $\LaTeX$.
 
-<img src="https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png" width="300px">
+<img src="https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png" width="500px">
 
 **PowerShell Graphs Without Internet Access [[GitHub](https://github.com/soobinrho/powershell-graphs-without-internet-access)]**
 
