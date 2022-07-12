@@ -42,7 +42,7 @@ to write everyting in $\LaTeX$.
 
 <img src="https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png" width="500px">
 
-### College Coursework Programming [[GitHub](https://github.com/soobinrho/college-programming)]
+#### College Coursework Programming [[GitHub](https://github.com/soobinrho/college-programming)]
 
 This repository is a collection of all codes I wrote for my college courses,
 such as *Computer Science I*, *Computer Science II*, and *Calculus II*.
@@ -52,7 +52,7 @@ written with $\LaTeX$.
 <img src="https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png" width="500px">
 
 <!---
-### PowerShell Graphs Without Internet Access [[GitHub](https://github.com/soobinrho/powershell-graphs-without-internet-access)]
+#### PowerShell Graphs Without Internet Access [[GitHub](https://github.com/soobinrho/powershell-graphs-without-internet-access)]
 
 If you happen to be in an environment where
 internet access is prohibited for security
