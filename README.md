@@ -14,9 +14,7 @@ and as few words as possible.
 
 ## Projects
 
-**Coders For Earth
-[[GitHub](https://github.com/CodersForEarth)]
-[[Official Website](https://codersforearth.com/)]**
+#### Coders For Earth [[GitHub](https://github.com/CodersForEarth)] [[Official Website](https://codersforearth.com/)]
 
 An open-source website for
 the environment and sustainability.
@@ -28,7 +26,7 @@ Add more description later
 -->
 
 
-### LaTeX Template for College Assignments [[GitHub](https://github.com/soobinrho/latex-college-assignments-template)]
+#### LaTeX Template for College Assignments [[GitHub](https://github.com/soobinrho/latex-college-assignments-template)]
 
 This is a $\LaTeX$ template based on the
 `North American GeoGebra Journal Template` and
