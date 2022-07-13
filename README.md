@@ -14,6 +14,7 @@ and as few words as possible.
 
 ## Projects
 
+<!---
 #### Coders For Earth [[GitHub](https://github.com/CodersForEarth)] [[Official Website](https://codersforearth.com/)]
 
 An open-source website for
@@ -21,7 +22,6 @@ the environment and sustainability.
 
 <img src="https://user-images.githubusercontent.com/19341857/178132714-67514875-9999-4bee-a670-da5af026902c.gif" width="500px">
 
-<!---
 Add more description later
 -->
 
