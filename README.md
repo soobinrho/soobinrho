@@ -51,7 +51,7 @@ written with $\LaTeX$.
 
 <img src="https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png" width="500px">
 
-<a href="https://asciinema.org/a/508974" target="_blank"><img src="https://asciinema.org/a/508974.svg" width="500px"/></a>
+<a href="https://asciinema.org/a/508979" target="_blank"><img src="https://asciinema.org/a/508979.svg" width="500px"/></a>
 
 <!---
 #### PowerShell Graphs Without Internet Access [[GitHub](https://github.com/soobinrho/powershell-graphs-without-internet-access)]
