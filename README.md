@@ -120,6 +120,10 @@ aimlessly websurfing for instance.
 Aiming to do something more than that will
 have to come at least two months after.
 
+**July, 2022** Same as the last month.
+The goal of this month is to be able to
+not do what I don't want to do.
+
 ## Past Goals
 
 **2017** Get full marks on my high-school IB Diploma - Failed miserably.
