@@ -12,6 +12,9 @@ also to show what kind of projects
 I'm working on with as many pictures and
 and as few words as possible.
 
+<br>
+<br>
+
 ## Projects
 
 <!---
@@ -42,6 +45,8 @@ to write everyting in $\LaTeX$.
 
 <img src="https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png" width="500px">
 
+<br>
+
 #### College Coursework Programming [[GitHub](https://github.com/soobinrho/college-programming)]
 
 This repository is a collection of all codes I wrote for my college courses,
@@ -52,6 +57,18 @@ written with $\LaTeX$.
 <img src="https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png" width="500px">
 
 <a href="https://asciinema.org/a/509012" target="_blank"><img src="https://asciinema.org/a/509012.svg" width="500px"/></a>
+
+<br>
+
+#### Personal Dotfiles [[GitHub](https://github.com/soobinrho/dotfiles-personal)]
+
+This repository is a collection of
+dotfiles and configuration files I use,
+such as `.bashrc` and `.vimrc`.
+
+<img src="https://user-images.githubusercontent.com/19341857/181281095-b56a803b-9530-4cd3-bc57-27bb0239d823.png" width="600px">
+
+<br>
 
 <!---
 #### PowerShell Graphs Without Internet Access [[GitHub](https://github.com/soobinrho/powershell-graphs-without-internet-access)]
@@ -72,6 +89,9 @@ program that preships with most Windows computers.
 These codes will generate graphs that can
 be exported to .png or .jpg files.
 -->
+
+<br>
+<br>
 
 ## Life Goals
 
