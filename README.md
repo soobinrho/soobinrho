@@ -14,7 +14,7 @@ and as few words as possible.
 
 <br>
 
-## Projects
+# Projects
 
 <!---
 #### Coders For Earth [[GitHub](https://github.com/CodersForEarth)] [[Official Website](https://codersforearth.com/)]
@@ -89,15 +89,13 @@ These codes will generate graphs that can
 be exported to .png or .jpg files.
 -->
 
-<br>
-
-## Life Goals
+# Life Goals
 
 Master the method of loci with the help of Joshua Foer's book *Moonwalking with Einstein*; be able to remember whatever I want to remember, such as memories with my best friends or course materials.
 
 <br>
 
-## Goals I am working on currently
+# Goals for Now
 
 **2022 Yearly Goal** Work on my mind palace twenty minutes every day.
 Alternatively, use these twenty minutes either to work on my mind palace
@@ -146,7 +144,7 @@ not do what I don't want to do.
 
 <br>
 
-## Past Goals
+# Past Goals
 
 **2017** Get full marks on my high-school IB Diploma - Failed miserably.
 
