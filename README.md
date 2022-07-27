@@ -66,7 +66,7 @@ This repository is a collection of
 dotfiles and configuration files I use,
 such as `.bashrc` and `.vimrc`.
 
-<img src="https://user-images.githubusercontent.com/19341857/181281095-b56a803b-9530-4cd3-bc57-27bb0239d823.png" width="500px">
+<img src="https://user-images.githubusercontent.com/19341857/181281095-b56a803b-9530-4cd3-bc57-27bb0239d823.png" width="535px">
 
 <br>
 
@@ -96,6 +96,9 @@ be exported to .png or .jpg files.
 ## Life Goals
 
 Master the method of loci with the help of Joshua Foer's book *Moonwalking with Einstein*; be able to remember whatever I want to remember, such as memories with my best friends or course materials.
+
+<br>
+<br>
 
 ## Goals I am working on currently
 
@@ -143,6 +146,9 @@ have to come at least two months after.
 **July, 2022** Same as the last month.
 The goal of this month is to be able to
 not do what I don't want to do.
+
+<br>
+<br>
 
 ## Past Goals
 
