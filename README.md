@@ -12,7 +12,7 @@ also to show what kind of projects
 I'm working on with as many pictures and
 and as few words as possible.
 
-<br>
+
 
 # Projects
 
@@ -67,7 +67,7 @@ such as `.bashrc` and `.vimrc`.
 
 <img src="https://user-images.githubusercontent.com/19341857/181281095-b56a803b-9530-4cd3-bc57-27bb0239d823.png" width="535px">
 
-<br>
+
 
 <!---
 #### PowerShell Graphs Without Internet Access [[GitHub](https://github.com/soobinrho/powershell-graphs-without-internet-access)]
@@ -93,7 +93,7 @@ be exported to .png or .jpg files.
 
 Master the method of loci with the help of Joshua Foer's book *Moonwalking with Einstein*; be able to remember whatever I want to remember, such as memories with my best friends or course materials.
 
-<br>
+
 
 # Goals for Now
 
@@ -142,7 +142,8 @@ have to come at least two months after.
 The goal of this month is to be able to
 not do what I don't want to do.
 
-<br>
+
+
 
 # Past Goals
 
