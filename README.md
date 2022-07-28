@@ -16,18 +16,6 @@ and as few words as possible.
 
 # Projects
 
-<!---
-#### Coders For Earth [[GitHub](https://github.com/CodersForEarth)] [[Official Website](https://codersforearth.com/)]
-
-An open-source website for
-the environment and sustainability.
-
-<img src="https://user-images.githubusercontent.com/19341857/178132714-67514875-9999-4bee-a670-da5af026902c.gif" width="500px">
-
-Add more description later
--->
-
-
 #### LaTeX Template for College Assignments [[GitHub](https://github.com/soobinrho/latex-college-assignments-template)]
 
 This is a $\LaTeX$ template based on the
@@ -67,10 +55,9 @@ such as `.bashrc` and `.vimrc`.
 
 <img src="https://user-images.githubusercontent.com/19341857/181281095-b56a803b-9530-4cd3-bc57-27bb0239d823.png" width="535px">
 
+<br>
 
-
-<!---
-#### PowerShell Graphs Without Internet Access [[GitHub](https://github.com/soobinrho/powershell-graphs-without-internet-access)]
+#### [Work in Progress] PowerShell Graphs Without Internet Access [[GitHub](https://github.com/soobinrho/powershell-graphs-without-internet-access)]
 
 If you happen to be in an environment where
 internet access is prohibited for security
@@ -87,7 +74,8 @@ and then type them into PowerShell ISE, which is a
 program that preships with most Windows computers.
 These codes will generate graphs that can
 be exported to .png or .jpg files.
--->
+
+<br>
 
 # Life Goals
 
