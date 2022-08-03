@@ -38,7 +38,7 @@ to write everyting in $\LaTeX$.
 
 This repository is a collection of all codes I wrote for my college courses,
 such as *Computer Science I*, *Computer Science II*, and *Calculus II*.
-Most of the graph generation was done using Python. Most of the documents were
+Most of the graph generation was done using Python. Most of the pdf documents were
 written with $\LaTeX$.
 
 <img src="https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png" width="500px">
