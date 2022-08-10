@@ -53,7 +53,7 @@ This repository is a collection of
 dotfiles and configuration files I use,
 such as `.bashrc` and `.vimrc`.
 
-<img src="https://user-images.githubusercontent.com/19341857/184023990-acf2b4ef-a0fd-42df-9f67-56d40e815adc.gif" width="535px">
+<img src="https://user-images.githubusercontent.com/19341857/184023990-acf2b4ef-a0fd-42df-9f67-56d40e815adc.gif" width="500px">
 
 <br>
 
