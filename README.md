@@ -49,13 +49,13 @@ written with $\LaTeX$.
 
 #### Personal Dotfiles [[GitHub](https://github.com/soobinrho/dotfiles-personal)]
 
-Whenever I reset my computers - which
-by the way run KDE Fedora - I use
+Whenever I reset my computers, which
+are running on KDE Fedora, I use
 this repository to remember what to re-install.
-Installing these dotfiles will give you
+Installing these will give you
 the same look as shown below, which
 consists of my chosen styles and settings for 
-Bash, Konsole, and Neovim.
+Bash, Konsole, Vim, and Neovim.
 
 <img src="https://user-images.githubusercontent.com/19341857/184075267-9818b003-480e-4ceb-a172-f7e6a1d686c7.gif">
 
