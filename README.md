@@ -49,9 +49,13 @@ written with $\LaTeX$.
 
 #### Personal Dotfiles [[GitHub](https://github.com/soobinrho/dotfiles-personal)]
 
-This repository is a collection of
-dotfiles and configuration files I use,
-such as `.bashrc` and `.vimrc`.
+Whenever I reset my computers - which
+by the way run KDE Fedora - I use
+this repository to remember what to re-install.
+Installing these dotfiles will give you
+the same look as shown below, which
+consists of styles and configs for 
+Bash, Konsole, and Neovim.
 
 <img src="https://user-images.githubusercontent.com/19341857/184075267-9818b003-480e-4ceb-a172-f7e6a1d686c7.gif">
 
