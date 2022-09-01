@@ -134,7 +134,28 @@ have to come at least two months after.
 The goal of this month is to be able to
 not do what I don't want to do.
 
+<!---
+**August, 2022** Again, same as the
+last month. I gotta stop procrastinating.
+Spent too much time on YouTube and Reddit.
 
+**September, 2022** I reset the
+two-months period for settling in a
+new habit. Last month, I
+utterly failed to do what I want to do.
+This month, I'll try to stop my bad habit
+of falling into doing what I don't wanna do.
+The thing is, even if there was no Reddit
+or YouTube, I would've found something else
+to procrastinate with. So, it's not 
+their problem; it's an internal problem I have.
+
+It'd be nice if I can just close my eyes
+or even just fall a sleep, whenever I feel
+an urge to open Reddit, watch YouTube, or
+whatever. Best case scenario, I'll try to
+work on my mind palace whenever I feel the urge.
+-->
 
 
 # Past Goals
