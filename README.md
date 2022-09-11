@@ -155,6 +155,17 @@ or even just fall a sleep, whenever I feel
 an urge to open Reddit, watch YouTube, or
 whatever. Best case scenario, I'll try to
 work on my mind palace whenever I feel the urge.
+
+September 10, 2022
+Whenever swimming, I used to have a problem 
+of not being able to remember how many laps
+I did. Today, I realized I can remember more
+easily by using my mind palace. It turns out
+I have fifteen spots for my school mind palace,
+and the number of laps I do also happens to be
+thirty. So, I just have to go through my
+school mind palace twice to remember my laps.
+
 -->
 
 
