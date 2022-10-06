@@ -1,3 +1,10 @@
+> A college student 
+> from South Korea
+> studying in South Dakota, majoring in
+> [***P***]hilosophy, mat[***h***], and 
+> [***D***]ata science -- or Ph.D as
+> I like to call it 😎
+
 # Overview
 
 I made too many mistakes of making
