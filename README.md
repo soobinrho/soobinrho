@@ -174,10 +174,12 @@ school mind palace twice to remember my laps.
 
 **2018** Be able to do 72 push-ups so that I can
 join special forces for my mandatory
-military service - Failed.
+military service -- Failed.
 I could do only 20.
 
 **2019~2021** Complete my military service -- done.
+
+**2022** ...
 
 <!-- To Do
 - Organize the goal section.
