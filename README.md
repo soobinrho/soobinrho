@@ -89,30 +89,32 @@ Master the method of loci with the help of Joshua Foer's book *Moonwalking with 
 
 # Goals for Now
 
-**2022 Yearly Goal** Work on my mind palace twenty minutes every day.
+**2022 Goals** 
+
+ - [ ] Work on my mind palace twenty minutes every day.
 Alternatively, use these twenty minutes either to work on my mind palace
 or to plan how I am going to spend my day that day
 -- e.g. no procrastination / no phone (unless necessary) until 5pm,
 catch up on readings 5pm - 7pm.
 
-**April, 2022** Create a GitHub repository for my goals and codes.
+ - [x] Create a GitHub repository for my goals and codes.
 Maybe make some tables so that goals are easy to read.
 
-**May, 2022** Spend three hours every week on edX
+ - [ ] Spend three hours every week on edX
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation).
 
-**1st Week of May** Spent only around five minutes on the course.
+*1st Week of May* Spent only around five minutes on the course.
 (five minutes out of three hours = 2.7%) I had so much free time, but
 I spent almost all of them procrastinating, such as watching YouTube on
 best XLR / USB mics. At least ten hours a day were spent procrastinating.
 
-**2nd & 3rd Week of May** Spent no time at all on the course.
+*2nd & 3rd Week of May* Spent no time at all on the course.
 It was partly because I had finals, but it was mostly because
 I spent too much time watching YouTubes. 99% my fault. Hopefully, next week will be better.
 
-**4th Week of May** Spent all my time watching Game of Thrones.
+*4th Week of May* Spent all my time watching Game of Thrones.
 
-**June, 2022** The goal this month is not
+ - [ ] This goal is not
 about doing something, but rather, it's about
 not doing what I do not want to do.
 For instane, I feel like my phone is doing
@@ -130,9 +132,6 @@ aimlessly websurfing for instance.
 Aiming to do something more than that will
 have to come at least two months after.
 
-**July, 2022** Same as the last month.
-The goal of this month is to be able to
-not do what I don't want to do.
 
 <!---
 **August, 2022** Again, same as the
@@ -177,6 +176,8 @@ school mind palace twice to remember my laps.
 join special forces for my mandatory
 military service - Failed.
 I could do only 20.
+
+**2019~2021** Complete my military service -- done.
 
 <!-- To Do
 - Organize the goal section.
