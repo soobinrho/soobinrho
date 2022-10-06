@@ -103,16 +103,19 @@ Maybe make some tables so that goals are easy to read.
  - [ ] Spend three hours every week on edX
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation).
 
-*1st Week of May* Spent only around five minutes on the course.
+*1st Week of May*<br>
+Spent only around five minutes on the course.
 (five minutes out of three hours = 2.7%) I had so much free time, but
 I spent almost all of them procrastinating, such as watching YouTube on
 best XLR / USB mics. At least ten hours a day were spent procrastinating.
 
-*2nd & 3rd Week of May* Spent no time at all on the course.
+*2nd & 3rd Week of May*<br>
+Spent no time at all on the course.
 It was partly because I had finals, but it was mostly because
 I spent too much time watching YouTubes. 99% my fault. Hopefully, next week will be better.
 
-*4th Week of May* Spent all my time watching Game of Thrones.
+*4th Week of May*<br>
+Spent all my time watching Game of Thrones.
 
  - [ ] This goal is not
 about doing something, but rather, it's about
