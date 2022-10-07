@@ -2,7 +2,7 @@
 > from South Korea
 > studying in South Dakota, majoring in
 > [***P***]hilosophy, mat[***h***], and 
-> [***D***]ata science -- or Ph.D as
+> [***D***]ata science -- or PhD as
 > I like to call it 😎
 
 # Overview
