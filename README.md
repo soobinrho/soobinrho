@@ -90,7 +90,12 @@ be exported to png or jpg files.
 
 # Life Goals
 
-Master the method of loci with the help of Joshua Foer's book *Moonwalking with Einstein*; be able to remember whatever I want to remember, such as memories with my best friends or course materials.
+Master the method of loci with 
+the help of Joshua Foer's book 
+*Moonwalking with Einstein*; 
+be able to remember whatever 
+I want to remember, such as memories 
+with my family and friends or course materials.
 
 
 
