@@ -115,23 +115,31 @@ Maybe make some tables so that goals are easy to read.
 
 *1st Week of May*<br>
 Spent only around five minutes on the course.
-(five minutes out of three hours = 2.7%) I had so much free time, but
-I spent almost all of them procrastinating, such as watching YouTube on
-best XLR / USB mics. At least ten hours a day were spent procrastinating.
+(five minutes out of three hours = 2.7%) 
+I had so much free time, but
+I spent almost all of them procrastinating, 
+such as watching YouTube's about the
+best XLR / USB mics. At least ten hours a day 
+were spent procrastinating.
 
 *2nd & 3rd Week of May*<br>
 Spent no time at all on the course.
-It was partly because I had finals, but it was mostly because
-I spent too much time watching YouTubes. 99% my fault. Hopefully, next week will be better.
+It was partly because I had finals, 
+but it was mostly because
+I spent too much time watching YouTube. 
+99% my fault. 
+Hopefully, next week will be better.
 
 *4th Week of May*<br>
 Spent all my time watching Game of Thrones.
 
- - [ ] This goal is not
+ - [ ] This time, it's not
 about doing something, but rather, it's about
-not doing what I do not want to do.
+not doing what I don't want to do.
 For instane, I feel like my phone is doing
-me -- not the other way around.
+me, not the other way around.
+Technology is supposed to help people,
+not the other way around
 
 It sounds easy, but I know how hard it
 actually is to stop doing what I have been
