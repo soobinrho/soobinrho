@@ -1,7 +1,7 @@
-> A college student 
+> A college student
 > from South Korea
 > studying in South Dakota, majoring in
-> [***P***]hilosophy, mat[***h***], and 
+> [***P***]hilosophy, mat[***h***], and
 > [***D***]ata science -- or PhD as
 > I like to call it 😎
 
@@ -61,7 +61,7 @@ are running on KDE Fedora, I use
 this repository to remember what to re-install.
 Installing these will give you
 the same look as shown below, which
-consists of my chosen styles and settings for 
+consists of my chosen styles and settings for
 Bash, Konsole, Vim, and Neovim.
 
 <img src="https://user-images.githubusercontent.com/19341857/184075267-9818b003-480e-4ceb-a172-f7e6a1d686c7.gif">
@@ -90,12 +90,12 @@ be exported to png or jpg files.
 
 # Life Goals
 
-Master the method of loci with 
-the help of Joshua Foer's book 
-*Moonwalking with Einstein*; 
-be able to remember whatever 
-I want to remember, such as memories 
-with my family and friends or course materials.
+Master the method of loci with
+the help of Joshua Foer's book
+*Moonwalking with Einstein*;
+be able to remember whatever
+I want to remember, such as memories
+with my family and friends or even course materials.
 
 
 
@@ -115,19 +115,19 @@ Maybe make some tables so that goals are easy to read.
 
 *1st Week of May*<br>
 Spent only around five minutes on the course.
-(five minutes out of three hours = 2.7%) 
+(five minutes out of three hours = 2.7%)
 I had so much free time, but
-I spent almost all of them procrastinating, 
+I spent almost all of them procrastinating,
 such as watching YouTube's about the
-best XLR / USB mics. At least ten hours a day 
+best XLR / USB mics. At least ten hours a day
 were spent procrastinating.
 
 *2nd & 3rd Week of May*<br>
 Spent no time at all on the course.
-It was partly because I had finals, 
+It was partly because I had finals,
 but it was mostly because
-I spent too much time watching YouTube. 
-99% my fault. 
+I spent too much time watching YouTube.
+99% my fault.
 Hopefully, next week will be better.
 
 *4th Week of May*<br>
@@ -167,7 +167,7 @@ This month, I'll try to stop my bad habit
 of falling into doing what I don't wanna do.
 The thing is, even if there was no Reddit
 or YouTube, I would've found something else
-to procrastinate with. So, it's not 
+to procrastinate with. So, it's not
 their problem; it's an internal problem I have.
 
 It'd be nice if I can just close my eyes
@@ -177,7 +177,7 @@ whatever. Best case scenario, I'll try to
 work on my mind palace whenever I feel the urge.
 
 September 10, 2022
-Whenever swimming, I used to have a problem 
+Whenever swimming, I used to have a problem
 of not being able to remember how many laps
 I did. Today, I realized I can remember more
 easily by using my mind palace. It turns out
@@ -204,6 +204,6 @@ I could do only 20.
 Complete my military service -- done.
 
 **2022**<br>
-Work in progress... 
+Work in progress...
 
 
