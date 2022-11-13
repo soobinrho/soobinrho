@@ -192,12 +192,12 @@ school mind palace twice to remember my laps.
 # Past Goals
 
 **2017**<br>
-Get full marks on my high-school IB Diploma - Failed miserably.
+Get full marks on my high-school IB Diploma -- failed miserably.
 
 **2018**<br>
 Be able to do 72 push-ups so that I can
 join special forces for my mandatory
-military service -- Failed.
+military service -- failed.
 I could do only 20.
 
 **2019~2021**<br>
