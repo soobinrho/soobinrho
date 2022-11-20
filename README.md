@@ -84,7 +84,7 @@ this repository to re-install everything.
 Installing these will give you
 the same look as shown below, which
 consists of my chosen styles and settings for
-Bash, Konsole, Vim, and Neovim.
+Bash, Zsh, Konsole, Vim, and Neovim.
 
 <img src="https://user-images.githubusercontent.com/19341857/184075267-9818b003-480e-4ceb-a172-f7e6a1d686c7.gif">
 
