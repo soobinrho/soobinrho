@@ -115,7 +115,7 @@ be exported to `.png` or `.jpg` files.
  - Master the method of loci with
 the help of Joshua Foer's book
 *Moonwalking with Einstein* so that
-I can remember what I want to remember.
+I can remember all things I want to remember.
 
  - Work on my mind palace twenty minutes every day.
 Alternatively, use these twenty minutes either to work on my mind palace
