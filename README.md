@@ -157,8 +157,11 @@ school mind palace twice to remember my laps.
 | When | What |
 | ---- | ---- |
 | **2017** | Get full marks on my high-school IB Diploma → Failed miserably. |
-| **2018** | Be able to do 72 push-ups so that I can join special forces for my mandatory military service → Failed. I could do only 20. Enlisted into South Korean Army.
-| **2019** | Complete my first year of military service → ✓
-| **2020** | Complete my second year of military service → ✓
-| **2021** | Complete my third year of military service → ✓
-| **2022** | Co-found Nsustain → ✓ |
+| **2018** | • Do well in my freshman year at Augustana University → I didn't do well academically, but I met my best friends here. <br><br> • Be able to do 72 push-ups so that I can join special forces for my mandatory military service → Failed. I could do only 20. Enlisted into South Korean Army.
+| **2019** | Complete my first year of mandatory military service → ✓
+| **2020** | Complete my second year → ✓
+| **2021** | Complete my third year → ✓
+| **2022** | • Do well in my sophomore year at Augustana University → ✓ <br><br> • Co-found Nsustain, a forum for the environment and sustainability → https://nsustain.com <br><br> • Get into Docker-Sponsored Open Source Program → https://hub.docker.com/u/nsustain |
+
+<!--
+| **2023** | • Do well in my junior year → ✓ <br><br> • Reach out to farmers who need technological help. Ask then if we can help them through https://nsustain.com <br><br> • Get into CGI U 2023 program. Learn how to grow Nsustain and make a genuine social impact. |
