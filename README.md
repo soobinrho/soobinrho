@@ -1,6 +1,5 @@
-> A college student
-> from South Korea
-> studying in South Dakota, majoring in
+> A college student from South Korea
+> studying at Augustana University, South Dakota, majoring in
 > [***P***]hilosophy, mat[***h***], and
 > [***D***]ata science -- or PhD as
 > I like to call it 😎
@@ -13,13 +12,15 @@ In my college sophomore year, a shower
 thought struck my mind:
 I gotta make realistic, specific goals
 and put these on my GitHub.
+
+
 This page keeps track of all my life
 goals; plus, I use this page
 also to show what kind of projects
 I'm working on with as many pictures and
 and as few words as possible.
 
-
+<br>
 
 # Projects
 
