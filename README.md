@@ -101,7 +101,7 @@ on your phone - or you could just print the codes -
 and then type them into PowerShell ISE, which is a
 program that preships with most Windows computers.
 These codes will generate graphs that can
-be exported to png or jpg files.
+be exported to `.png` or `.jpg` files.
 
 <br>
 
