@@ -23,6 +23,22 @@ and as few words as possible.
 
 # Projects
 
+#### Nsustain [[GitHub](https://github.com/Nsustain)]
+
+🌳 Connecting people who need our help with people who can help, Nsustain is a forum website where volunteer open-source developers can come help farmers and scientists around the world.
+
+<p align="center">
+  <b>
+    YouTube<br>
+    [<a href="https://youtu.be/E8JAcw1SJLA">What is Nsustain?</a>]
+  </b>
+  <a href="https://youtu.be/E8JAcw1SJLA" target="_blank">
+    <img src="https://img.youtube.com/vi/E8JAcw1SJLA/maxresdefault.jpg" alt="Nsustain YouTube" />
+  </a>
+</p>
+
+<br>
+
 #### LaTeX Template for College Assignments [[GitHub](https://github.com/soobinrho/latex-college-assignments-template)]
 
 This is a $\LaTeX$ template based on the
@@ -145,4 +161,4 @@ school mind palace twice to remember my laps.
 | **2019** | Complete my first year of military service → ✓
 | **2020** | Complete my second year of military service → ✓
 | **2021** | Complete my third year of military service → ✓
-| **2022** | Work in progress...
+| **2022** | Co-found Nsustain → ✓ |
