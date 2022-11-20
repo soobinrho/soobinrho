@@ -90,69 +90,16 @@ be exported to png or jpg files.
 
 # Life Goals
 
-Master the method of loci with
+ - Master the method of loci with
 the help of Joshua Foer's book
-*Moonwalking with Einstein*;
-be able to remember whatever
-I want to remember, such as memories
-with my family and friends or even course materials.
+*Moonwalking with Einstein* so that
+I can remember what I want to remember.
 
-
-
-# Goals for Now
-
- - [ ] Work on my mind palace twenty minutes every day.
+ - Work on my mind palace twenty minutes every day.
 Alternatively, use these twenty minutes either to work on my mind palace
 or to plan how I am going to spend my day that day
 -- e.g. no procrastination / no phone (unless necessary) until 5pm,
 catch up on readings 5pm - 7pm.
-
- - [x] Create a GitHub repository for my goals and codes.
-Maybe make some tables so that goals are easy to read.
-
- - [ ] Spend three hours every week on edX
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation).
-
-*1st Week of May*<br>
-Spent only around five minutes on the course.
-(five minutes out of three hours = 2.7%)
-I had so much free time, but
-I spent almost all of them procrastinating,
-such as watching YouTube's about the
-best XLR / USB mics. At least ten hours a day
-were spent procrastinating.
-
-*2nd & 3rd Week of May*<br>
-Spent no time at all on the course.
-It was partly because I had finals,
-but it was mostly because
-I spent too much time watching YouTube.
-99% my fault.
-Hopefully, next week will be better.
-
-*4th Week of May*<br>
-Spent all my time watching Game of Thrones.
-
- - [ ] This time, it's not
-about doing something, but rather, it's about
-not doing what I don't want to do.
-For instane, I feel like my phone is doing
-me, not the other way around.
-Technology is supposed to help people,
-not the other way around
-
-It sounds easy, but I know how hard it
-actually is to stop doing what I have been
-doing all my life. I think I've heard someone
-saying that habits become habits after
-two months. I should aim to
-*not do what I do not want to do* for
-two months -- nothing more, nothing less:
-aimlessly websurfing for instance.
-
-Aiming to do something more than that will
-have to come at least two months after.
-
 
 <!---
 **August, 2022** Again, same as the
@@ -185,25 +132,17 @@ I have fifteen spots for my school mind palace,
 and the number of laps I do also happens to be
 thirty. So, I just have to go through my
 school mind palace twice to remember my laps.
-
 -->
 
+<br>
 
-# Past Goals
+# Goals I had in the past
 
-**2017**<br>
-Get full marks on my high-school IB Diploma -- failed miserably.
-
-**2018**<br>
-Be able to do 72 push-ups so that I can
-join special forces for my mandatory
-military service -- failed.
-I could do only 20.
-
-**2019~2021**<br>
-Complete my military service -- done.
-
-**2022**<br>
-Work in progress...
-
-
+| When | What |
+| ---- | ---- |
+| **2017** | Get full marks on my high-school IB Diploma → Failed miserably. |
+| **2018** | Be able to do 72 push-ups so that I can join special forces for my mandatory military service → Failed. I could do only 20. Enlisted into South Korean Army.
+| **2019** | Complete my first year of military service → ✓
+| **2020** | Complete my second year of military service → ✓
+| **2021** | Complete my third year of military service → ✓
+| **2022** | Work in progress...
