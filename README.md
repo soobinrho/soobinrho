@@ -160,7 +160,7 @@ school mind palace twice to remember my laps.
 
 # Goals I had in the past
 
-| When | What |
+| ***When*** | ***What*** |
 | ---- | ---- |
 | ***2017*** | • Get full marks on my high-school IB Diploma → Failed miserably. |
 | ***2018*** | • Do well in my freshman year at Augustana University → I didn't do well academically, but I met my best friends here. <br><br> • Be able to do 72 push-ups so that I can join special forces for my mandatory military service → Failed. I could do only 20. Enlisted into South Korean Army.
