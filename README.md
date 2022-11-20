@@ -1,8 +1,13 @@
+<br>
+<br>
+
 > A college student from South Korea
 > studying at Augustana University, South Dakota, majoring in
 > [***P***]hilosophy, mat[***h***], and
 > [***D***]ata science -- or PhD as
 > I like to call it 😎
+
+<br>
 
 # Overview
 
