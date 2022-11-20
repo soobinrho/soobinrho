@@ -170,4 +170,6 @@ school mind palace twice to remember my laps.
 | **2022** | • Complete my 4<sup>th</sup> year at the army → ✓ <br><br> • Do well in my sophomore year at Augustana University → ✓ <br><br> • Co-found Nsustain, a forum for the environment and sustainability → ✓ https://nsustain.com <br><br> • Get into Docker-Sponsored Open Source Program → ✓ https://hub.docker.com/u/nsustain |
 
 <!--
-| **2023** | • Do well in my junior year → ✓ <br><br> • Reach out to farmers who need technological help. Ask then if we can help them through https://nsustain.com <br><br> • Get into CGI U 2023 program. Learn how to grow Nsustain and make a genuine social impact. |
+| **2023** | • Do well in my junior year → ✓ <br><br> • Get into CGI U 2023 program. Learn how to grow Nsustain and make a genuine social impact.
+
+<br><br> • Reach out to farmers who need technological help. Ask then if we can help them through https://nsustain.com  |
