@@ -75,7 +75,7 @@ written with $\LaTeX$.
 
 Whenever I reset my computers, which
 are running on KDE Fedora, I use
-this repository to remember what to re-install.
+this repository to re-install everything.
 Installing these will give you
 the same look as shown below, which
 consists of my chosen styles and settings for
