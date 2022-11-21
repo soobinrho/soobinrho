@@ -49,12 +49,12 @@ and as few words as possible.
 
 This is a $\LaTeX$ template based on the
 `North American GeoGebra Journal Template` and
-Jupyter Lab's code-cells preambles.
-You can insert Jupyter Lab style code blocks,
+JupyterLab's code-cells preambles.
+You can insert JupyterLab style code blocks,
 as well as GitHub style inline codes like `this inline code block`.
 
 Personally, I use this for my math assignments, but since its
-code blocks look exactly the same as Jupyter Lab's code cells,
+code blocks look exactly the same as JupyterLab's code cells,
 it can be used for computer science assignments as well,
 if you happen to be the kind of person who likes
 to write everyting in $\LaTeX$.
