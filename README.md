@@ -178,10 +178,10 @@ Example:
   https://yaytext.com/bold-italic/
 
 ```POST
-Nsustain ... 🎉 Thank you ... for ...; ... for ...; and ... for ...
+🎉 Nsustain ...  Thank you ... for ...; ... for ...; and ... for ...
 
-𝘽𝙪𝙩 𝙬𝙝𝙖𝙩 𝙞𝙨 𝙉𝙨𝙪𝙨𝙩𝙖𝙞𝙣?
-Nsustain is a forum website created for
+𝙄𝙣 𝙘𝙖𝙨𝙚 𝙮𝙤𝙪'𝙧𝙚 𝙬𝙤𝙣𝙙𝙚𝙧𝙞𝙣𝙜 𝙬𝙝𝙖𝙩 𝙞𝙨 𝙉𝙨𝙪𝙨𝙩𝙖𝙞𝙣...
+🌳 Nsustain is a forum website created for
 the environment and sustainability.
 https://github.com/Nsustain
 
