@@ -171,3 +171,9 @@ school mind palace twice to remember my laps.
 
 <!--
 | ***2023*** | • Do well in my junior year → ✓ <br><br> • Get into CGI U 2023 program. Learn how to grow Nsustain and make a genuine social impact. <br><br> • Reach out to farmers who need technological help. Ask then if we can help them through https://nsustain.com  |
+
+HOW DID I ADD BOLD TEXT TO LINKEDIN SUMMARY?
+I used unicode bold alphabets.
+Example:
+  https://yaytext.com/bold-italic/
+-->
