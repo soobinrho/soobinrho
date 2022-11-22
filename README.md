@@ -176,4 +176,22 @@ HOW DID I ADD BOLD TEXT TO LINKEDIN SUMMARY?
 I used unicode bold alphabets.
 Example:
   https://yaytext.com/bold-italic/
+
+```POST
+Nsustain ... 🎉 Thank you ... for ...; ... for ...; and ... for ...
+
+𝘽𝙪𝙩 𝙬𝙝𝙖𝙩 𝙞𝙨 𝙉𝙨𝙪𝙨𝙩𝙖𝙞𝙣?
+Nsustain is a forum website created for
+the environment and sustainability.
+https://github.com/Nsustain
+
+𝙒𝙝𝙮 𝙙𝙞𝙙 𝙄 𝙢𝙖𝙠𝙚 𝙉𝙨𝙪𝙨𝙩𝙖𝙞𝙣?
+...
+
+𝙒𝙝𝙖𝙩'𝙨 𝙣𝙚𝙭𝙩 𝙛𝙤𝙧 𝙉𝙨𝙪𝙨𝙩𝙖𝙞𝙣?
+...
+
+
+// Repost to original
+```
 -->
