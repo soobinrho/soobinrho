@@ -163,7 +163,7 @@ school mind palace twice to remember my laps.
 | ***When*** | ***What*** |
 | ---- | ---- |
 | ***2017*** | • Get full marks on my high-school IB Diploma → Failed miserably. |
-| ***2018*** | • Do well in my freshman year at Augustana University → I didn't do well academically, but I met my best friends here. <br><br> • Be able to do 72 push-ups so that I can join special forces for my mandatory military service → Failed. I could do only 20. Enlisted into South Korean Army.
+| ***2018*** | • Do well in my freshman year at Augustana University → I didn't do well academically, but I met my best friends here. <br><br> • Be able to do 72 push-ups so that I can join special forces for my mandatory military service → Failed. I could do only 20. Enlisted into a regular unit in South Korean Army.
 | ***2019*** | • Complete my 1<sup>st</sup> year at the army → ✓
 | ***2020*** | • Complete my 2<sup>nd</sup> year at the army → ✓
 | ***2021*** | • Complete my 3<sup>rd</sup> year at the army → ✓
