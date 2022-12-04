@@ -172,6 +172,14 @@ school mind palace twice to remember my laps.
 <!--
 | ***2023*** | • Do well in my junior year → ✓ <br><br> • Get into CGI U 2023 program; learn how to grow Nsustain; make a genuine social impact → ✓ <br><br> • Reach out to farmers who need technological help; ask then if we can help them through https://nsustain.com → ✓ |
 
+December 4, 2022, 00:35, Bergsaker Room
+I noticed I tend to sound more clear when I push my
+lower jaw a little bit forward. Yes! I realized
+what my dentist told me when I first visited her
+-- my teeth are misaligned such that my lower jaw
+is a little bit behind, and this may have been
+impacting my speech!
+
 HOW DID I ADD BOLD TEXT TO LINKEDIN SUMMARY?
 I used unicode bold alphabets.
 Example:
