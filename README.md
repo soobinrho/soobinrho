@@ -31,7 +31,7 @@ and as few words as possible.
 
 #### Nsustain [[GitHub](https://github.com/Nsustain)]
 
-🌳 Nsustain is a website where volunteer open-source developers can come help farmers and scientists around the world.
+🌳 Nsustain is a platform that connects volunteers who are skilled in open-source development with farmers and scientists who need technological assistance. It is a way for these professionals to get support for their work in a way that benefits the environment and sustainability. By working together, Nsustain aims to create a positive impact on the world and make a difference in the fight for a more sustainable future.
 
 <p align="center">
   <b>
