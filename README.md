@@ -65,10 +65,10 @@ to write everyting in $\LaTeX$.
 
 #### College Coursework Programming [[GitHub](https://github.com/soobinrho/college-programming)]
 
-This repository is a collection of all codes I wrote for my college courses,
-such as *Computer Science I & II*, *C++ Programming*, and *Calculus II*.
-Most of the graph generation was done using Python. Most of the pdf documents were
-written with $\LaTeX$.
+This repository contains the code that I wrote for my college courses,
+including *C++ Programming*, *Computer Science I & II*, and *Calculus II*.
+The majority of the graph generation was done using Python,
+and the pdf documents were written using $\LaTeX$. 
 
 <img src="https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png" width="500px">
 
@@ -78,13 +78,10 @@ written with $\LaTeX$.
 
 #### Personal Dotfiles [[GitHub](https://github.com/soobinrho/dotfiles-personal)]
 
-Whenever I reset my computers, which
-are running on KDE Fedora, I use
-this repository to re-install everything.
-Installing these will give you
-the same look as shown below, which
-consists of my chosen styles and settings for
-Bash, Zsh, Konsole, Vim, and Neovim.
+This repository contains scripts and configurations that I use to set up
+my computers running KDE Fedora after a reset. The scripts and configurations
+in this repository allow me to customize the look and feel of my system,
+including the appearance of Bash, Zsh, Konsole, Vim, and Neovim.
 
 <img src="https://user-images.githubusercontent.com/19341857/184075267-9818b003-480e-4ceb-a172-f7e6a1d686c7.gif">
 
@@ -116,6 +113,9 @@ be exported to `.png` or `.jpg` files.
 the help of Joshua Foer's book
 *Moonwalking with Einstein* so that
 I can remember all things I want to remember.
+This technique involves creating mental images of
+specific locations and associating items to be
+remembered with those locations.
 
  - Work on my mind palace twenty minutes every day.
 Alternatively, use these twenty minutes either to work on my mind palace
