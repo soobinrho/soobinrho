@@ -1,7 +1,7 @@
 <br>
 <br>
 
-> Born in South Korea. Raised in Dubai, United Arab Emirates.
+> Born in South Korea and raised in Dubai, United Arab Emirates.
 > A college student at Augustana University, located in South Dakota,
 > triple majoring in philosophy, math, and computer science.
 >
