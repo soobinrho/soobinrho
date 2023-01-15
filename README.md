@@ -2,8 +2,8 @@
 <br>
 
 > A college student at Augustana University, South Dakota,
-> majoring in Philosophy, math, and computer science.
-> Born in South Korea and raised in Dubai, United Arab Emirates.
+> triple majoring in philosophy, math, and computer science.
+> I was born in South Korea and raised in Dubai, United Arab Emirates.
 
 <br>
 
