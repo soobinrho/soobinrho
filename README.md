@@ -166,11 +166,12 @@ school mind palace twice to remember my laps.
 | ***When*** | ***What*** |
 | ---- | ---- |
 | ***2017*** | • Get full marks on my high-school IB Diploma → Failed miserably. |
-| ***2018*** | • Do well in my freshman year at Augustana University → I didn't do well academically, but I met my best friends here. <br><br> • Be able to do 72 push-ups so that I can join special forces for my mandatory military service → Failed. I could do only 20. Enlisted into a regular unit in South Korean Army.
+| ***2018*** | • Do well in my freshman year at Augustana → I didn't do well academically, but I met my best friends here. <br><br> • Be able to do 72 push-ups so that I can join special forces for my mandatory military service → Failed. I could do only 20. Enlisted into a regular unit in South Korean Army.
 | ***2019*** | • Complete my 1<sup>st</sup> year at the army → ✓
 | ***2020*** | • Complete my 2<sup>nd</sup> year at the army → ✓
 | ***2021*** | • Complete my 3<sup>rd</sup> year at the army → ✓
-| ***2022*** | • Complete my 4<sup>th</sup> year at the army → ✓ <br><br> • Do well in my sophomore year at Augustana University → ✓ <br><br> • Co-found Nsustain, a forum for the environment and sustainability → ✓ https://nsustain.com <br><br> • Apply to Docker-Sponsored Open Source Program → ✓ https://hub.docker.com/u/nsustain |
+| ***2022*** | • Complete my 4<sup>th</sup> year at the army → ✓ <br><br> • Do well in my sophomore year at Augustana → ✓ <br><br> • Co-found Nsustain, a forum for the environment and sustainability → ✓ https://nsustain.com <br><br> • Apply to Docker-Sponsored Open Source Program → ✓ https://hub.docker.com/u/nsustain |
+| ***2023*** | • Do well in my junior year at Augustana → WIP (Work In Progress) |
 
 <!--
 | ***2023*** | • Do well in my junior year → ✓ <br><br> • Get into CGI U 2023 program; learn how to grow Nsustain; make a genuine social impact → ✓ <br><br> • Reach out to farmers who need technological help; ask then if we can help them through https://nsustain.com → ✓ |
