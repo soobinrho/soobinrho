@@ -1,14 +1,14 @@
 <br>
 <br>
 
-> A college student at Augustana University, South Dakota,
+> Born in South Korea. Raised in Dubai, United Arab Emirates.
+> A college student at Augustana University, located in South Dakota,
 > triple majoring in philosophy, math, and computer science.
-> I was born in South Korea and raised in Dubai, United Arab Emirates,
-> because my parents have been expats.
 >
-> My life goal is to get a well paying job so that I can support
-> my family, and then to work on projects on environmental
-> sustainability in my free time.
+> My life goal is (a) to get a well paying job so that I can live without ever worrying
+> about money, and (b) to spend my free time working on open-source projects that
+> promote environmental sustainability, such as 
+> Nsustain. https://github.com/Nsustain
 
 <br>
 
