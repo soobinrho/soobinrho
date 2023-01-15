@@ -1,11 +1,9 @@
 <br>
 <br>
 
-> A college student from South Korea
-> studying at Augustana University, South Dakota, majoring in
-> [***P***]hilosophy, mat[***h***], and
-> [***D***]ata science -- or PhD as
-> I like to call it 😎
+> A college student at Augustana University, South Dakota,
+> majoring in Philosophy, math, and computer science.
+> Born in South Korea and raised in Dubai, United Arab Emirates.
 
 <br>
 
