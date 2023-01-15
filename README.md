@@ -3,7 +3,12 @@
 
 > A college student at Augustana University, South Dakota,
 > triple majoring in philosophy, math, and computer science.
-> I was born in South Korea and raised in Dubai, United Arab Emirates.
+> I was born in South Korea and raised in Dubai, United Arab Emirates,
+> because my parents have been expats.
+>
+> My life goal is to get a well paying job so that I can support
+> my family, and then to work on projects on environmental
+> sustainability in my free time.
 
 <br>
 
