@@ -5,9 +5,8 @@
 > A college student at Augustana University, located in South Dakota,
 > triple majoring in philosophy, math, and computer science.
 >
-> My life goal is (a) to get a job so that I can live without ever worrying
-> about money, and (b) to spend my free time working on open-source projects that
-> promote environmental sustainability, such as 
+> My life goal is (a) to get a well-paying job because I don't want to worry about money,
+> and (b) to spend my free time working on stuff that I truly care about, such as
 > Nsustain. https://github.com/Nsustain
 
 <br>
@@ -71,7 +70,7 @@ to write everyting in $\LaTeX$.
 This repository contains the code that I wrote for my college courses,
 including *C++ Programming*, *Computer Science I & II*, and *Calculus II*.
 The majority of the graph generation was done using Python,
-and the pdf documents were written using $\LaTeX$. 
+and the pdf documents were written using $\LaTeX$.
 
 <img src="https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png" width="500px">
 
