@@ -5,9 +5,10 @@
 > A college student at Augustana University, located in South Dakota,
 > triple majoring in philosophy, math, and computer science.
 >
-> My life goal is (a) to get a well-paying job because I don't want to worry about money,
-> and (b) to spend my free time working on stuff that I truly care about, such as
-> Nsustain. https://github.com/Nsustain
+> My life goal is (a) to secure financial stability by working
+> during the day in a great, mission-driven company,
+> and (b) to spend my free time doing stuff that I truly care about,
+> such as Nsustain. https://github.com/Nsustain
 
 <br>
 
