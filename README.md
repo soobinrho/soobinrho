@@ -81,7 +81,7 @@ and the pdf documents were written using $\LaTeX$.
 #### Personal Dotfiles [[GitHub](https://github.com/soobinrho/dotfiles-personal)]
 
 This repository is what I use whenever I do a clean install on my computers.
-There are scripts and configurations for Bash, Zsh, Konsole, Vim, Neovim, etc. 
+Scripts and configurations for Bash, Zsh, Konsole, Vim, Neovim, etc. 
 
 <img src="https://user-images.githubusercontent.com/19341857/184075267-9818b003-480e-4ceb-a172-f7e6a1d686c7.gif">
 
