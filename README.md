@@ -7,7 +7,8 @@
 >
 > My life goal is (a) to work in a great, mission-driven company during the day,
 > and (b) to spend my free time during weekends and nights doing stuff that I truly care about,
-> such as Nsustain. https://github.com/Nsustain
+> such as Nsustain, which stands for e[N]vironment and [sustain]ability.
+> https://github.com/Nsustain
 
 <br>
 
