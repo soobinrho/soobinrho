@@ -77,6 +77,8 @@ and the pdf documents were written using $\LaTeX$.
 
 <img src="https://user-images.githubusercontent.com/19341857/184002427-9c12da89-9818-4590-b4c8-11bf8eac9032.svg" width="500px">
 
+<img src="https://github.com/soobinrho/college-programming/assets/19341857/0c9a67f0-0b82-4d6f-ae5c-35ccd4b6b5ac" width="500px">
+
 <br>
 
 #### Personal Dotfiles [[GitHub](https://github.com/soobinrho/dotfiles-personal)]
