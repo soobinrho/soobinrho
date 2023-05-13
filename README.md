@@ -90,26 +90,6 @@ Scripts and configurations for Bash, Zsh, Konsole, Vim, Neovim, etc.
 
 <br>
 
-#### [Work in Progress] PowerShell Graphs Without Internet Access [[GitHub](https://github.com/soobinrho/powershell-graphs-without-internet-access)]
-
-If you happen to be in an environment where
-internet access is prohibited for security
-protocol or for any other reason - e.g. military
-in some countries - then this repository is for you.
-
-Every Windows computer is likely to have
-PowerShell preinstalled. This repository was
-made for those who need to create graphs but
-their workstations have restricted internet
-access. View the codes on this repository
-on your phone - or you could just print the codes -
-and then type them into PowerShell ISE, which is a
-program that preships with most Windows computers.
-These codes will generate graphs that can
-be exported to `.png` or `.jpg` files.
-
-<br>
-
 # Goals I'm working on
 
  - Master the method of loci with
