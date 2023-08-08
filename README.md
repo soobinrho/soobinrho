@@ -34,7 +34,9 @@ and as few words as possible.
 
 #### Nsustain [[GitHub](https://github.com/Nsustain)]
 
-🌳 Nsustain is a platform that connects volunteers who are skilled in open-source development with farmers and scientists who need technological assistance. It is a way for these professionals to get support for their work in a way that benefits the environment and sustainability. By working together, Nsustain aims to create a positive impact on the world and make a difference in the fight for a more sustainable future.
+🌳 Nsustain is a hobby project. A friend of mine here at my college and I started doing it because we realized it's hard for regular, normal people like us to contribute to environmental sustainability directly.
+
+So, the idea of Nsustain is you can start making direct impact on environmental sustainability. How? By connecting them with people who work in fields related to the environment and by creating computer programs for whatever technical problem they are dealing with hahaha
 
 <p align="center">
   <b>
