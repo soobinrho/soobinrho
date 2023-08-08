@@ -36,7 +36,7 @@ and as few words as possible.
 
 🌳 Nsustain is a hobby project. A friend of mine here at my college and I started doing it because we realized it's hard for regular, normal people like us to contribute to environmental sustainability directly.
 
-So, the idea of Nsustain is you can start making direct impact on environmental sustainability. How? By connecting them with people who work in fields related to the environment and by creating computer programs for whatever technical problem they are dealing with hahaha
+So, the idea of Nsustain is you can start making direct impact on environmental sustainability. How? By connecting you with people who work in fields related to the environment and by creating computer programs for whatever technical problem they are dealing with hahaha
 
 <p align="center">
   <b>
