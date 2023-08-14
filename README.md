@@ -32,6 +32,12 @@ and as few words as possible.
 
 # Projects
 
+#### 2023 Google Summer of Code [[FreeBSD](https://wiki.freebsd.org/SummerOfCode2023Projects/IntegrateMfsBSDIntoTheReleaseBuildingTools)]
+
+Integrated mfsBSD into the FreeBSD release tool set.
+
+<br>
+
 #### Nsustain [[GitHub](https://github.com/Nsustain)]
 
 🌳 Nsustain is a hobby project. A friend of mine here at my college and I started doing it because we realized it's hard for regular, normal people like us to contribute to environmental sustainability directly.
