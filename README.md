@@ -159,11 +159,8 @@ school mind palace twice to remember my laps.
 | ***2020*** | • Complete my 2<sup>nd</sup> year at the army → ✓
 | ***2021*** | • Complete my 3<sup>rd</sup> year at the army → ✓
 | ***2022*** | • Complete my 4<sup>th</sup> year at the army → ✓ <br><br> • Do well in my sophomore year at Augustana → ✓ <br><br> • Co-found Nsustain, a forum for the environment and sustainability → ✓ https://nsustain.com <br><br> • Apply to Docker-Sponsored Open Source Program → ✓ https://hub.docker.com/u/nsustain |
-| ***2023*** | • Do well in my junior year at Augustana → WIP (Work In Progress) |
-
+| ***2023*** | • Do well in my junior year at Augustana → ✓ (Work In Progress) <br><br> • Note to the reader: I've moved this section to https://github.com/Bolzano-Weierstrass-plan/soobin-record |
 <!--
-| ***2023*** | • Do well in my junior year → ✓ <br><br> • Get into CGI U 2023 program; learn how to grow Nsustain; make a genuine social impact → ✓ <br><br> • Reach out to farmers who need technological help; ask then if we can help them through https://nsustain.com → ✓ |
-
 December 4, 2022, 00:35, Bergsaker Room
 I noticed I tend to sound more clear when I push my
 lower jaw a little bit forward. Yes! I realized
@@ -176,29 +173,4 @@ HOW DID I ADD BOLD TEXT TO LINKEDIN SUMMARY?
 I used unicode bold alphabets.
 Example:
   https://yaytext.com/bold-italic/
-
-```POST
-Nsustain ...  🎉 Thank you ... for ...; ... for ...; and ... for ...
-
-𝙄𝙣 𝙘𝙖𝙨𝙚 𝙮𝙤𝙪'𝙧𝙚 𝙬𝙤𝙣𝙙𝙚𝙧𝙞𝙣𝙜 𝙬𝙝𝙖𝙩 𝙞𝙨 𝙉𝙨𝙪𝙨𝙩𝙖𝙞𝙣...
-🌳 Nsustain is a forum website created for
-the environment and sustainability.
-https://github.com/Nsustain
-
-𝙒𝙝𝙖𝙩 𝙙𝙤𝙚𝙨 𝙉𝙨𝙪𝙨𝙩𝙖𝙞𝙣 𝙙𝙤?
-...
-
-𝙉𝙚𝙭𝙩 𝙛𝙞𝙫𝙚 𝙮𝙚𝙖𝙧𝙨 𝙛𝙤𝙧 𝙉𝙨𝙪𝙨𝙩𝙖𝙞𝙣
-• ...
-• ...
-• ...
-
-What Nsustain does may not be a big help.
-It's just a small help, but we're glad
-we can contribute to the betterment of
-environmental sustainability
-in any way we can.
-
-// Repost to original
-```
 -->
