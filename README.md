@@ -159,7 +159,7 @@ school mind palace twice to remember my laps.
 | ***2020*** | • Complete my 2<sup>nd</sup> year at the army → ✓
 | ***2021*** | • Complete my 3<sup>rd</sup> year at the army → ✓
 | ***2022*** | • Complete my 4<sup>th</sup> year at the army → ✓ <br><br> • Do well in my sophomore year at Augustana → ✓ <br><br> • Co-found Nsustain, a forum for the environment and sustainability → ✓ https://nsustain.com <br><br> • Apply to Docker-Sponsored Open Source Program → ✓ https://hub.docker.com/u/nsustain |
-| ***2023*** | • Do well in my junior year at Augustana → ✓ (Work In Progress) <br><br> • Note to the reader: I've moved this section to https://github.com/Bolzano-Weierstrass-plan/soobin-record |
+| ***2023*** | • Do well in my junior year at Augustana → ✓ <br><br> • Note to the reader: I've moved this section to https://github.com/Bolzano-Weierstrass-plan/soobin-record |
 <!--
 December 4, 2022, 00:35, Bergsaker Room
 I noticed I tend to sound more clear when I push my
