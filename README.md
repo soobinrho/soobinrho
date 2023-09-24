@@ -88,6 +88,7 @@ and the pdf documents were written using $\LaTeX$.
 <img src="https://github.com/soobinrho/college-programming/assets/19341857/0c9a67f0-0b82-4d6f-ae5c-35ccd4b6b5ac" width="500px">
 
 <br>
+<br>
 
 **Personal Dotfiles [[GitHub](https://github.com/soobinrho/dotfiles-personal)]**
 
