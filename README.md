@@ -32,13 +32,13 @@ and as few words as possible.
 
 # Projects
 
-#### 2023 Google Summer of Code [[FreeBSD](https://wiki.freebsd.org/SummerOfCode2023Projects/IntegrateMfsBSDIntoTheReleaseBuildingTools)]
+**2023 Google Summer of Code [[FreeBSD](https://wiki.freebsd.org/SummerOfCode2023Projects/IntegrateMfsBSDIntoTheReleaseBuildingTools)]**
 
 Integrated mfsBSD into the FreeBSD release tool set.
 
 <br>
 
-#### Nsustain [[GitHub](https://github.com/Nsustain)]
+**Nsustain [[GitHub](https://github.com/Nsustain)]**
 
 🌳 Nsustain is a hobby project. A friend of mine here at my college and I started doing it because we realized it's hard for regular, normal people like us to contribute to environmental sustainability directly.
 
@@ -56,7 +56,7 @@ So, the idea of Nsustain is you can start making direct impact on environmental 
 
 <br>
 
-#### LaTeX Template for College Assignments [[GitHub](https://github.com/soobinrho/latex-college-assignments-template)]
+**LaTeX Template for College Assignments [[GitHub](https://github.com/soobinrho/latex-college-assignments-template)]**
 
 This is a $\LaTeX$ template based on the
 `North American GeoGebra Journal Template` and
@@ -74,7 +74,7 @@ to write everyting in $\LaTeX$.
 
 <br>
 
-#### College Coursework Programming [[GitHub](https://github.com/soobinrho/college-programming)]
+**College Coursework Programming [[GitHub](https://github.com/soobinrho/college-programming)]**
 
 This repository contains every code I wrote for my college courses,
 including *C++ Programming*, *Computer Science I & II*, and *Calculus II*.
@@ -89,7 +89,7 @@ and the pdf documents were written using $\LaTeX$.
 
 <br>
 
-#### Personal Dotfiles [[GitHub](https://github.com/soobinrho/dotfiles-personal)]
+**Personal Dotfiles [[GitHub](https://github.com/soobinrho/dotfiles-personal)]**
 
 This repository is what I use whenever I do a clean install on my computers.
 Scripts and configurations for Bash, Zsh, Konsole, Vim, Neovim, etc. 
