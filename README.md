@@ -32,7 +32,20 @@ and as few words as possible.
 
 # Projects
 
-**2023 Google Summer of Code [[FreeBSD](https://wiki.freebsd.org/SummerOfCode2023Projects/IntegrateMfsBSDIntoTheReleaseBuildingTools)]**
+**BeeMovr [[GitHub](https://github.com/soobinrho/beemovr)]**
+
+<img src="https://github.com/soobinrho/soobinrho/assets/19341857/7ea0f7e6-112b-40a1-b37e-c78d49ae4143" width="500px">
+
+<img src="https://github.com/soobinrho/soobinrho/assets/19341857/89d9138e-761b-4edf-bd17-94d1852fafa8" width="500px">
+
+<br>
+<br>
+
+This is a 2023 [HackMIT](https://hackmit.org/) and [Call for Code](https://developer.ibm.com/callforcode/) project, a map created to help beekeepers save bees. Special thanks to Keith Robert from The Valley Hive in California, our favorite beekeeper.
+
+<br>
+
+**Google Summer of Code [[FreeBSD](https://wiki.freebsd.org/SummerOfCode2023Projects/IntegrateMfsBSDIntoTheReleaseBuildingTools)]**
 
 Integrated mfsBSD into the FreeBSD release tool set.
 
