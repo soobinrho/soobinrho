@@ -3,7 +3,7 @@
 
 > Born in South Korea and raised in Dubai.
 > A college student at Augustana University, located in South Dakota,
-> triple majoring in philosophy, math, and computer science.
+> double majoring in philosophy and computer science.
 >
 > My life goal is (a) to work in a great, mission-driven company during the day,
 > and (b) to spend my free time doing stuff that I truly care about,
