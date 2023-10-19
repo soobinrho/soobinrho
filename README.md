@@ -42,6 +42,7 @@ and as few words as possible.
 <br>
 
 This is a 2023 [HackMIT](https://hackmit.org/) and [Call for Code](https://developer.ibm.com/callforcode/) project, a map created to help beekeepers save their bees. Special thanks to Keith Robert from The Valley Hive in California, my favorite beekeeper.
+We made a [video](https://youtu.be/xFqW0RfN6Io?si=Oa7keBGQlwwivkRB), if you're interested.
 
 <br>
 
