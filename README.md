@@ -58,16 +58,6 @@ Integrated mfsBSD into the FreeBSD release tool set.
 
 So, the idea of Nsustain is you can start making direct impact on environmental sustainability. How? By connecting you with people who work in fields related to the environment and by creating computer programs for whatever technical problem they are dealing with hahaha
 
-<p align="center">
-  <b>
-    YouTube<br>
-    [<a href="https://youtu.be/E8JAcw1SJLA">What is Nsustain?</a>]
-  </b>
-  <a href="https://youtu.be/E8JAcw1SJLA" target="_blank">
-    <img src="https://img.youtube.com/vi/E8JAcw1SJLA/maxresdefault.jpg" alt="Nsustain YouTube" />
-  </a>
-</p>
-
 <br>
 
 **LaTeX Template for College Assignments [[GitHub](https://github.com/soobinrho/latex-college-assignments-template)]**
