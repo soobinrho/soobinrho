@@ -25,8 +25,7 @@ and put these on my GitHub.
 This page keeps track of all my life
 goals. Plus, I use this page
 also to show what kind of projects
-I'm working on with as many pictures and
-and as few words as possible.
+I'm working on with as many pictures and as few words as possible.
 
 <br>
 
