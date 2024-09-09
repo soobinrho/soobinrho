@@ -99,6 +99,8 @@ Scripts and configurations for Bash, Zsh, Konsole, Vim, Neovim, etc.
 
 <img src="https://user-images.githubusercontent.com/19341857/184075267-9818b003-480e-4ceb-a172-f7e6a1d686c7.gif">
 
+Note: I don't use dotbot on my dotfiles anymore, but leaving this gif alive for memory.
+
 <br>
 
 # Goals I'm working on
