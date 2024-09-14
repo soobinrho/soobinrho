@@ -89,7 +89,7 @@ and the pdf documents were written using $\LaTeX$.
 
 <img src="https://github.com/soobinrho/college-programming/assets/19341857/0c9a67f0-0b82-4d6f-ae5c-35ccd4b6b5ac" width="500px">
 
-<img src="https://github.com/user-attachments/assets/6e158dff-70a9-4a9b-b093-3fc716568ddd">
+<img src="https://github.com/user-attachments/assets/d0dbf720-8812-4024-a9de-9dda8c0d7bb2">
 
 <br>
 <br>
