@@ -40,7 +40,7 @@ I'm working on with as many pictures and as few words as possible.
 <br>
 <br>
 
-My friends and I wrote this as a 2023 [HackMIT](https://github.com/soobinrho/BeeMovr/blob/main/DEVLOG.md#2023-09-17) project. It's a map created to help beekeepers save their bees. Special thanks to Keith Robert from The Valley Hive in California, my favorite beekeeper.
+My friends and I wrote this as a 2023 [HackMIT](https://github.com/soobinrho/BeeMovr/blob/main/DEVLOG.md#2023-09-17) project. It's a map created to help beekeepers save their bees. Special thanks to Keith Robert from The Valley Hive in California, our favorite beekeeper.
 
 <br>
 
