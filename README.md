@@ -97,11 +97,9 @@ and the pdf documents were written using $\LaTeX$.
 **Personal Dotfiles [[GitHub](https://github.com/soobinrho/dotfiles-personal)]**
 
 This repository is what I use whenever I do a clean install on my computers.
-Scripts and configurations for Bash, Zsh, Konsole, Vim, Neovim, etc. 
+Scripts and configurations for Zsh, Alacritty, Neovim, tmux etc. 
 
-<img src="https://user-images.githubusercontent.com/19341857/184075267-9818b003-480e-4ceb-a172-f7e6a1d686c7.gif">
-
-Note: I don't use dotbot on my dotfiles anymore, but leaving this gif alive for memory.
+<img src="https://github.com/user-attachments/assets/a615f5fb-7ff1-4649-afb0-03f958bc1858">
 
 <br>
 
