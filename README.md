@@ -45,7 +45,7 @@ We host this as a web app on https://BeeMovr.nsustain.com
 I integrated mfsBSD into the FreeBSD release tool set, documented at https://wiki.freebsd.org/SoobinRho
 
 A short paper on this was published:
-“mfsBSD in Base".
+*mfsBSD in Base*.
 2024.
 FreeBSD Journal, Configuration Management, May-June Edition.
 
