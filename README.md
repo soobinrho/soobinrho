@@ -44,6 +44,11 @@ We host this as a web app on https://BeeMovr.nsustain.com
 
 I integrated mfsBSD into the FreeBSD release tool set, documented at https://wiki.freebsd.org/SoobinRho
 
+A short paper on this was published:
+“mfsBSD in Base".
+2024.
+FreeBSD Journal, Configuration Management, May-June Edition.
+
 <br>
 
 ## Nsustain
@@ -93,19 +98,11 @@ https://github.com/soobinrho/dotfiles-personal
 
 ## My Goals
 
- - Master the method of loci with
+- Master the method of loci with
 the help of Joshua Foer's book
-*Moonwalking with Einstein* so that
-I can remember all things I want to remember.
-This technique involves creating mental images of
-specific locations and associating items to be
-remembered with those locations.
+*Moonwalking with Einstein*.
 
- - Work on my mind palace twenty minutes every day.
-Alternatively, use these twenty minutes either to work on my mind palace
-or to plan how I am going to spend my day that day
--- e.g. no procrastination / no phone (unless necessary) until 5pm,
-catch up on readings 5pm - 7pm.
+- Finish all the books I bought.
 
 <!---
 **August, 2022** Again, same as the
