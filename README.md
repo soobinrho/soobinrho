@@ -28,9 +28,7 @@ I'm working on with as many pictures and as few words as possible.
 
 <br>
 
-# Projects
-
-**BeeMovr [[GitHub](https://github.com/soobinrho/beemovr)]**
+## BeeMovr
 
 <img src="https://github.com/soobinrho/soobinrho/assets/19341857/7ea0f7e6-112b-40a1-b37e-c78d49ae4143" width="500px">
 
@@ -39,18 +37,19 @@ I'm working on with as many pictures and as few words as possible.
 <br>
 <br>
 
-My friends and I wrote this as a 2023 [HackMIT](https://github.com/soobinrho/BeeMovr/blob/main/DEVLOG.md#2023-09-17) project.
-It's a map created to help beekeepers and their bees by finding which area has the best potential for honey yield.
+My friends and I wrote this at the MIT 2023 hackathon (HackMIT).
+It's a map to help beekeepers and their bees by finding which area has the best potential for honey yield by looking at environmental data, such as precipitation and temperature.
+We host this as a web app on https://BeeMovr.nsustain.com
 
 <br>
 
-**Google Summer of Code [[FreeBSD](https://wiki.freebsd.org/SummerOfCode2023Projects/IntegrateMfsBSDIntoTheReleaseBuildingTools)]**
+## Google Summer of Code
 
-I integrated mfsBSD into the FreeBSD release tool set.
+I integrated mfsBSD into the FreeBSD release tool set, documented at https://wiki.freebsd.org/SoobinRho
 
 <br>
 
-**Nsustain [[GitHub](https://github.com/Nsustain)]**
+## Nsustain
 
 A college friend of mine and I created this because we realized it's hard for regular, normal people like us to contribute to environmental sustainability directly.
 So, the idea of Nsustain is that you can start making direct impact on environmental sustainability by asking people who actually work in the field, "what do you all need?" and then writing programs for whatever they need.
@@ -63,11 +62,16 @@ So, the idea of Nsustain is that you can start making direct impact on environme
 
 > <sub>[1] https://nsustain.com</sub><br>
 > <sub>[2] https://BeeMovr.nsustain.com</sub><br>
-> <sub>[3] https://GoodLifeFarms.nsustain.com</sub><br>
+> <sub>[3] https://GoodLifeFarms.nsustain.com</sub>
 
 <br>
 
-**College Projects [[GitHub](https://github.com/soobinrho/college-programming)]**
+If you want to check out how I deploy the web apps above:
+https://github.com/soobinrho/deploy-nsustain.com/tree/main
+
+<br>
+
+## College Projects
 
 <img src="https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png" width="500px">
 
@@ -75,16 +79,22 @@ So, the idea of Nsustain is that you can start making direct impact on environme
 
 <img src="https://github.com/user-attachments/assets/d0dbf720-8812-4024-a9de-9dda8c0d7bb2">
 
+My favorite codes I wrote at college.
+I store them at https://github.com/soobinrho/college-programming
+
 <br>
 <br>
 
-**Personal Dotfiles [[GitHub](https://github.com/soobinrho/dotfiles-personal)]**
+## My Dotfiles
 
 <img src="https://github.com/user-attachments/assets/a615f5fb-7ff1-4649-afb0-03f958bc1858">
 
+My environment setup.
+https://github.com/soobinrho/dotfiles-personal
+
 <br>
 
-# Goals I'm working on
+## My Goals
 
  - Master the method of loci with
 the help of Joshua Foer's book
@@ -135,7 +145,7 @@ school mind palace twice to remember my laps.
 
 <br>
 
-# Goals I had in the past
+## Goals I Used to Have
 
 | ***When*** | ***What*** |
 | ---- | ---- |
