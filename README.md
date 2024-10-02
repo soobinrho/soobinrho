@@ -34,7 +34,7 @@ I'm working on with as many pictures and as few words as possible.
 <br>
 <br>
 
-My friends and I wrote this at the MIT 2023 hackathon (HackMIT).
+My friends and I wrote this at 2023 MIT hackathon (HackMIT).
 It's a map to help beekeepers and their bees by finding which area has the best potential for honey yield by looking at Open Meteo's environmental data, such as precipitation and temperature.
 We host this as a web app on https://BeeMovr.nsustain.com
 
