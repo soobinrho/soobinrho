@@ -21,7 +21,6 @@ thought struck my mind:
 I gotta make realistic, specific goals
 and put these on my GitHub.
 
-
 This page keeps track of all my life
 goals. Plus, I use this page
 also to show what kind of projects
@@ -40,21 +39,21 @@ I'm working on with as many pictures and as few words as possible.
 <br>
 <br>
 
-My friends and I wrote this as a 2023 [HackMIT](https://github.com/soobinrho/BeeMovr/blob/main/DEVLOG.md#2023-09-17) project. It's a map created to help beekeepers save their bees. Special thanks to Keith Robert from The Valley Hive in California, our favorite beekeeper.
+My friends and I wrote this as a 2023 [HackMIT](https://github.com/soobinrho/BeeMovr/blob/main/DEVLOG.md#2023-09-17) project.
+It's a map created to help beekeepers and their bees by finding which area has the best potential for honey yield.
 
 <br>
 
 **Google Summer of Code [[FreeBSD](https://wiki.freebsd.org/SummerOfCode2023Projects/IntegrateMfsBSDIntoTheReleaseBuildingTools)]**
 
-Integrated mfsBSD into the FreeBSD release tool set.
+I integrated mfsBSD into the FreeBSD release tool set.
 
 <br>
 
 **Nsustain [[GitHub](https://github.com/Nsustain)]**
 
-🌳 Nsustain is a hobby project. A friend of mine here at my college and I started doing it because we realized it's hard for regular, normal people like us to contribute to environmental sustainability directly.
-
-So, the idea of Nsustain is you can start making direct impact on environmental sustainability. How? By connecting you with people who work in fields related to the environment and by creating computer programs for whatever technical problem they are dealing with hahaha
+A college friend of mine and I created this because we realized it's hard for regular, normal people like us to contribute to environmental sustainability directly.
+So, the idea of Nsustain is that you can start making direct impact on environmental sustainability by asking people who actually work in the field, "what do you all need?" and then writing programs for whatever they need.
 
 | ***Project*** | ***Purpose*** |
 | ------------- | ------------- |
@@ -68,34 +67,9 @@ So, the idea of Nsustain is you can start making direct impact on environmental 
 
 <br>
 
-**LaTeX Template for College Assignments [[GitHub](https://github.com/soobinrho/latex-college-assignments-template)]**
-
-This is a $\LaTeX$ template based on the
-`North American GeoGebra Journal Template` and
-JupyterLab's code-cells preambles.
-You can insert JupyterLab style code blocks,
-as well as GitHub style inline codes like `this inline code block`.
-
-Personally, I use this for my math assignments, but since its
-code blocks look exactly the same as JupyterLab's code cells,
-it can be used for computer science assignments as well,
-if you happen to be the kind of person who likes
-to write everyting in $\LaTeX$.
-
-<img src="https://user-images.githubusercontent.com/19341857/174758273-d4410ce1-afe4-4d4e-8229-1f069ee8a165.png" width="500px">
-
-<br>
-
-**College Coursework Programming [[GitHub](https://github.com/soobinrho/college-programming)]**
-
-This repository contains every code I wrote for my college courses,
-including *C++ Programming*, *Computer Science I & II*, and *Calculus II*.
-The majority of the graph generation was done using Python,
-and the pdf documents were written using $\LaTeX$.
+**College Projects [[GitHub](https://github.com/soobinrho/college-programming)]**
 
 <img src="https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png" width="500px">
-
-<img src="https://user-images.githubusercontent.com/19341857/184002427-9c12da89-9818-4590-b4c8-11bf8eac9032.svg" width="500px">
 
 <img src="https://github.com/soobinrho/college-programming/assets/19341857/0c9a67f0-0b82-4d6f-ae5c-35ccd4b6b5ac" width="500px">
 
@@ -105,9 +79,6 @@ and the pdf documents were written using $\LaTeX$.
 <br>
 
 **Personal Dotfiles [[GitHub](https://github.com/soobinrho/dotfiles-personal)]**
-
-This repository is what I use whenever I do a clean install on my computers.
-Scripts and configurations for Zsh, Alacritty, Neovim, tmux etc. 
 
 <img src="https://github.com/user-attachments/assets/a615f5fb-7ff1-4649-afb0-03f958bc1858">
 
