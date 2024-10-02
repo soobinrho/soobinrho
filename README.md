@@ -67,7 +67,7 @@ So, the idea of Nsustain is that you can start making direct impact on environme
 <br>
 
 If you want to check out how I deploy the web apps above:
-https://github.com/soobinrho/deploy-nsustain.com/tree/main
+https://github.com/soobinrho/deploy-nsustain.com
 
 <br>
 
