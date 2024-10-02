@@ -2,12 +2,9 @@
 <br>
 
 > Born in South Korea and raised in Dubai.
-> A college student at Augustana University, located in South Dakota,
-> double majoring in philosophy and computer science.
+> Studied philosophy and computer science at Augustana University, which is located in South Dakota.
 >
-> My life goal is (a) to work in a great, mission-driven company during the day,
-> and (b) to spend my free time doing stuff that I truly care about,
-> such as Nsustain, which stands for e[N]vironment and [sustain]ability.
+> My life goal is to (a) work in a great, mission-driven company during the day, and (b) spend my free time doing stuff that I truly care about, such as Nsustain, which stands for e[N]vironment and [sustain]ability.
 > https://github.com/Nsustain
 
 <br>
