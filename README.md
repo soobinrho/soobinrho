@@ -91,7 +91,7 @@ I store them at https://github.com/soobinrho/college-programming
 
 <img src="https://github.com/user-attachments/assets/a615f5fb-7ff1-4649-afb0-03f958bc1858">
 
-My environment setup.
+Dotfiles for my environment:
 https://github.com/soobinrho/dotfiles-personal
 
 <br>
