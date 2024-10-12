@@ -49,7 +49,7 @@ We host this as a web app on https://BeeMovr.nsustain.com
      alt="Good Life Farms banner. Tomato Cat and Orange Puppy.">
 
 A self-sustainable platform for local producers, such as farmers and beekeepers, and for local consumers.
-Started as a project for Dr. G, my biology professor at my college who has a farm with her husband, but my team realized a lot of local producers would actually want to use this too, so we opened it for all local producers: https://GoodLifeFarms.nsustain.com
+Started as a project for Dr. G, my biology professor at my college who has a farm with her husband, but my team realized a lot of local producers would actually want to use this too, so we opened it up for all local producers: https://GoodLifeFarms.nsustain.com
 
 <br>
 <br>
