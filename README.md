@@ -33,14 +33,13 @@ I'm working on with as many pictures and as few words as possible.
 
 <img src="https://github.com/soobinrho/soobinrho/assets/19341857/89d9138e-761b-4edf-bd17-94d1852fafa8"
      width="500px"
-     alt="HackMIT Grand Prize 3rd Place Winner (BeeMovr)"><br>
-
-<br>
+     alt="HackMIT Grand Prize 3rd Place Winner (BeeMovr).">
 
 My friends and I wrote this at 2023 MIT hackathon (HackMIT).
 It's a map to help beekeepers and their bees by finding which area has the best potential for honey yield by looking at Open Meteo's environmental data, such as precipitation and temperature.
 We host this as a web app on https://BeeMovr.nsustain.com
 
+<br>
 <br>
 
 ## Good Life Farms
@@ -52,6 +51,7 @@ We host this as a web app on https://BeeMovr.nsustain.com
 A self-sustainable platform for local producers, such as farmers and beekeepers, and for local consumers.
 Started as a project for Dr. G, my biology professor at my college who has a farm with her husband, but my team realized a lot of local producers would actually want to use this too, so we opened it for all local producers: https://GoodLifeFarms.nsustain.com
 
+<br>
 <br>
 
 ## Nsustain
@@ -75,39 +75,45 @@ If you want to see my code for deploying these web apps:
 https://github.com/soobinrho/deploy-nsustain.com
 
 <br>
+<br>
 
 ## Google Summer of Code
 
 I integrated mfsBSD into the FreeBSD release tool set, documented at https://wiki.freebsd.org/SoobinRho
 
-A short paper on this was published:
-*mfsBSD in Base*.
-2024.
-FreeBSD Journal, Configuration Management, May-June Edition.
+Also published at *mfsBSD in Base*. 2024. FreeBSD Journal, Configuration Management, May-June Edition.
 
+<br>
 <br>
 
 ## College Projects
 
-<img src="https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png" width="500px">
+<img src="https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png"
+     width="500px"
+     alt="A small paper I wrote for my Calculus class.">
 
-<img src="https://github.com/soobinrho/college-programming/assets/19341857/0c9a67f0-0b82-4d6f-ae5c-35ccd4b6b5ac" width="500px">
+<img src="https://github.com/soobinrho/college-programming/assets/19341857/0c9a67f0-0b82-4d6f-ae5c-35ccd4b6b5ac"
+     width="500px"
+     alt="My paper for Which Infrastructure / OS for Our Next Startup?">
 
-<img src="https://github.com/user-attachments/assets/d0dbf720-8812-4024-a9de-9dda8c0d7bb2">
+<img src="https://github.com/user-attachments/assets/d0dbf720-8812-4024-a9de-9dda8c0d7bb2"
+     alt="A screenshot of what I did in my Graphics Design class.">
 
-My favorite codes I wrote at college.
-I store them at https://github.com/soobinrho/college-programming
+My college course work.
+Stored at https://github.com/soobinrho/college-programming
 
 <br>
 <br>
 
 ## My Dotfiles
 
-<img src="https://github.com/user-attachments/assets/a615f5fb-7ff1-4649-afb0-03f958bc1858">
+<img src="https://github.com/user-attachments/assets/a615f5fb-7ff1-4649-afb0-03f958bc1858"
+     alt="Screenshot of my computer environment.">
 
 Dotfiles for my environment:
 https://github.com/soobinrho/dotfiles-personal
 
+<br>
 <br>
 
 ## My Goals
@@ -152,6 +158,7 @@ school mind palace twice to remember my laps.
 -->
 
 <br>
+<br>
 
 ## Goals I Used to Have
 
@@ -178,3 +185,5 @@ I used unicode bold alphabets.
 Example:
   https://yaytext.com/bold-italic/
 -->
+
+<br>
