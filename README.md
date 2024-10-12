@@ -27,16 +27,52 @@ I'm working on with as many pictures and as few words as possible.
 
 ## BeeMovr
 
-<img src="https://github.com/soobinrho/soobinrho/assets/19341857/7ea0f7e6-112b-40a1-b37e-c78d49ae4143" width="500px">
+<img src="https://github.com/soobinrho/soobinrho/assets/19341857/7ea0f7e6-112b-40a1-b37e-c78d49ae4143"
+     width="500px"
+     alt="2023 MIT Hackathon (HackMIT).">
 
-<img src="https://github.com/soobinrho/soobinrho/assets/19341857/89d9138e-761b-4edf-bd17-94d1852fafa8" width="500px">
+<img src="https://github.com/soobinrho/soobinrho/assets/19341857/89d9138e-761b-4edf-bd17-94d1852fafa8"
+     width="500px"
+     alt="HackMIT Grand Prize 3rd Place Winner (BeeMovr)"><br>
 
-<br>
 <br>
 
 My friends and I wrote this at 2023 MIT hackathon (HackMIT).
 It's a map to help beekeepers and their bees by finding which area has the best potential for honey yield by looking at Open Meteo's environmental data, such as precipitation and temperature.
 We host this as a web app on https://BeeMovr.nsustain.com
+
+<br>
+
+## Good Life Farms
+
+<img src="https://github.com/user-attachments/assets/a2bc8027-4c33-4c56-8dad-f2eff0c3e1f2"
+     width="500px"
+     alt="Good Life Farms banner. Tomato Cat and Orange Puppy.">
+
+A self-sustainable platform for local producers, such as farmers and beekeepers, and for local consumers.
+Started as a project for Dr. G, my biology professor at my college who has a farm with her husband, but my team realized a lot of local producers would actually want to use this too, so we opened it for all local producers: https://GoodLifeFarms.nsustain.com
+
+<br>
+
+## Nsustain
+
+A college friend of mine and I created this because we realized it's hard for regular, normal people like us to contribute to environmental sustainability directly.
+So, the idea of Nsustain is that you can start making direct impact on environmental sustainability by asking people who actually work in the field, "what do you all need?" and then writing programs for whatever they need.
+
+| ***Project*** | ***Purpose*** |
+| ------------- | ------------- |
+| ***BeeMovr***<sup>[1]</sup> | Help beekeepers by coding whatever they need for their bees. |
+| ***Good Life Farms***<sup>[2]</sup> | Help local producers (farmers, beekeeprs, florists, and so on) by giving them a platform to serve their shareholders. Deisnged to be as self-sustainable as possible: it's built with Google Sheets and Google Forms instead of fancy, expensive databases. |
+| ***Nsustain***<sup>[3]</sup> | Help the e[N]vironment and [sustain]ability by coding for anyone who works in the field. Any programmer who shares our goal is welcome to join us. |
+
+> <sub>[1] https://BeeMovr.nsustain.com</sub><br>
+> <sub>[2] https://GoodLifeFarms.nsustain.com</sub><br>
+> <sub>[3] https://nsustain.com</sub>
+
+<br>
+
+If you want to see my code for deploying these web apps:
+https://github.com/soobinrho/deploy-nsustain.com
 
 <br>
 
@@ -48,28 +84,6 @@ A short paper on this was published:
 *mfsBSD in Base*.
 2024.
 FreeBSD Journal, Configuration Management, May-June Edition.
-
-<br>
-
-## Nsustain
-
-A college friend of mine and I created this because we realized it's hard for regular, normal people like us to contribute to environmental sustainability directly.
-So, the idea of Nsustain is that you can start making direct impact on environmental sustainability by asking people who actually work in the field, "what do you all need?" and then writing programs for whatever they need.
-
-| ***Project*** | ***Purpose*** |
-| ------------- | ------------- |
-| ***Nsustain***<sup>[1]</sup> | Help the e[N]vironment and [sustain]ability by coding for anyone who works in the field. Any programmer who shares our goal is welcome to join us. |
-| ***BeeMovr***<sup>[2]</sup> | Help beekeepers by coding whatever they need for their bees. |
-| ***Good Life Farms***<sup>[3]</sup> | Help local producers (farmers, beekeeprs, florists, and so on) by giving them a platform to serve their shareholders. Deisnged to be as self-sustainable as possible: it's built with Google Sheets and Google Forms instead of fancy, expensive databases. |
-
-> <sub>[1] https://nsustain.com</sub><br>
-> <sub>[2] https://BeeMovr.nsustain.com</sub><br>
-> <sub>[3] https://GoodLifeFarms.nsustain.com</sub>
-
-<br>
-
-If you want to see my code for deploying these web apps:
-https://github.com/soobinrho/deploy-nsustain.com
 
 <br>
 
