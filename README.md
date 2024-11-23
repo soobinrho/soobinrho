@@ -88,7 +88,8 @@ Also published at *mfsBSD in Base*. 2024. FreeBSD Journal, Configuration Managem
      width="500px"
      alt="My paper for Which Infrastructure / OS for Our Next Startup?">
 
-<img src="https://github.com/user-attachments/assets/d0dbf720-8812-4024-a9de-9dda8c0d7bb2"
+<img src="https://github.com/user-attachments/assets/abbe7712-b16c-445d-b654-0f23ac49cefa"
+     width="500px"
      alt="A screenshot of what I did in my Graphics Design class.">
 
 My college course work.
