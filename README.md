@@ -55,7 +55,7 @@ So, the idea of Nsustain is that you can start making direct impact on environme
 | ------------- | ------------- |
 | ***BeeMovr***<sup>[1]</sup> | Help beekeepers by coding whatever they need for their bees. |
 | ***Good Life Farms***<sup>[2]</sup> | Help local producers (farmers, beekeeprs, florists, and so on) by giving them a platform to serve their shareholders. Deisnged to be as self-sustainable as possible: it's built with Google Sheets and Google Forms instead of fancy, expensive databases. |
-| ***Nsustain***<sup>[3]</sup> | Help the e[N]vironment and [sustain]ability by coding for anyone who works in the field. Any programmer who shares our goal is welcome to join us. |
+| ***Nsustain***<sup>[3]</sup> | Nsustain is a group of volunteer programmers who love the e[N]vironment and [sustain]ability. We write code for whoever needs our code (researchers, farmers, doctors, etc) as long as their work is realted to the environmental sustainability. |
 
 > <sub>[1] https://BeeMovr.nsustain.com</sub><br>
 > <sub>[2] https://GoodLifeFarms.nsustain.com</sub><br>
