@@ -1,6 +1,10 @@
 <br>
 <br>
 
+> A cybersecurity analyst and a programmer.
+
+<br>
+
 # Overview
 
 I made too many mistakes of making
