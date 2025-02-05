@@ -84,10 +84,6 @@ Also published at *mfsBSD in Base*. 2024. FreeBSD Journal, Configuration Managem
 
 ## College Projects
 
-<img src="https://user-images.githubusercontent.com/19341857/176699968-c9cd420b-b0f9-47d5-98cb-320e533e9907.png"
-     width="500px"
-     alt="A small paper I wrote for my Calculus class.">
-
 <img src="https://github.com/soobinrho/college-programming/assets/19341857/0c9a67f0-0b82-4d6f-ae5c-35ccd4b6b5ac"
      width="500px"
      alt="My paper for Which Infrastructure / OS for Our Next Startup?">
