@@ -1,7 +1,7 @@
 <br>
 <br>
 
-> A cybersecurity analyst and a programmer.
+> A cybersecurity analyst.
 
 <br>
 
