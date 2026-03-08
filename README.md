@@ -92,6 +92,14 @@ Also published at *mfsBSD in Base*. 2024. FreeBSD Journal, Configuration Managem
      width="500px"
      alt="A screenshot of what I did in my Graphics Design class.">
 
+<img src="https://github.com/user-attachments/assets/d13f5323-a349-460b-99a9-a132f871a81c"
+     width="1000px"
+     alt="Cessna 172">
+     
+<img src="https://github.com/user-attachments/assets/6143e053-adf1-47ee-84aa-68b5b112f8af"
+     width="1000px"
+     alt="Cessna 172 Cockpit">
+
 My college course work.
 Stored at https://github.com/soobinrho/college-programming
 
