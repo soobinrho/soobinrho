@@ -106,17 +106,6 @@ Stored at https://github.com/soobinrho/college-programming
 <br>
 <br>
 
-## My Dotfiles
-
-<img src="https://github.com/user-attachments/assets/a615f5fb-7ff1-4649-afb0-03f958bc1858"
-     alt="Screenshot of my computer environment.">
-
-Dotfiles for my environment:
-https://github.com/soobinrho/dotfiles-personal
-
-<br>
-<br>
-
 ## My Goals
 
 - Master the method of loci with
@@ -124,38 +113,5 @@ the help of Joshua Foer's book
 *Moonwalking with Einstein*.
 
 - Finish all the books I bought.
-
-<!---
-**August, 2022** Again, same as the
-last month. I gotta stop procrastinating.
-Spent too much time on YouTube and Reddit.
-
-**September, 2022** I reset the
-two-months period for settling in a
-new habit. Last month, I
-utterly failed to do what I want to do.
-This month, I'll try to stop my bad habit
-of falling into doing what I don't wanna do.
-The thing is, even if there was no Reddit
-or YouTube, I would've found something else
-to procrastinate with. So, it's not
-their problem; it's an internal problem I have.
-
-It'd be nice if I can just close my eyes
-or even just fall a sleep, whenever I feel
-an urge to open Reddit, watch YouTube, or
-whatever. Best case scenario, I'll try to
-work on my mind palace whenever I feel the urge.
-
-September 10, 2022
-Whenever swimming, I used to have a problem
-of not being able to remember how many laps
-I did. Today, I realized I can remember more
-easily by using my mind palace. It turns out
-I have fifteen spots for my school mind palace,
-and the number of laps I do also happens to be
-thirty. So, I just have to go through my
-school mind palace twice to remember my laps.
--->
 
 <br>
