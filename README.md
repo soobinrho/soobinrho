@@ -100,7 +100,7 @@ Also published at *mfsBSD in Base*. 2024. FreeBSD Journal, Configuration Managem
      width="1000px"
      alt="Cessna 172 Cockpit">
 
-My college course work.
+My college coursework.
 Stored at https://github.com/soobinrho/college-programming
 
 <br>
